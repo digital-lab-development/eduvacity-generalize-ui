@@ -5,13 +5,16 @@ module.exports = {
     extend: {
       colors: {
         'primaryColor': '#1e136b',
-        'lightPink': '#fffcfe'
+        'lightPink': '#fffcfe',
+        'pinkBGColor': '#fff3f8'
       },
       spacing: {
         100: '26rem',
+        120: '36rem',
       },
       backgroundImage: {
         'jumbotron-section': "url('src/assets/img/landing/sprite.png')",
+        'learning-section': "url('src/assets/img/landing/sprite2.png')",
       }
     },
   },
