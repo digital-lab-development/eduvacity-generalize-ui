@@ -29,7 +29,7 @@
 
             <q-toolbar-title class="md:-tw-ml-72 lg:-tw-ml-120 tw-hidden md:tw-block">
               <q-img
-                class="tw-w-40"
+                class="tw-w-32"
                 src="~assets/img/landing/eduvacity.png"
               />
             </q-toolbar-title>

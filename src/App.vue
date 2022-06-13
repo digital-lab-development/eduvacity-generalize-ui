@@ -1,5 +1,7 @@
 <template>
-  <router-view />
+  <div class="body">
+    <router-view />
+  </div>
 </template>
 
 <script>
@@ -9,3 +11,9 @@ export default defineComponent({
   name: 'App'
 })
 </script>
+
+<style scoped>
+.body {
+  font-family: Poppins;
+}
+</style>
