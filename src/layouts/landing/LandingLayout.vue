@@ -4,7 +4,7 @@
       <div class="col-12 col-xl-9">
         <div class="tw-bg-white tw-pt-4">
           <q-toolbar class="tw-w-flex tw-justify-center">
-            <div class="tw-pl-3 tw-text-base md:tw-hidden">
+            <div class="tw-text-base md:tw-hidden">
               <q-img
                 class="tw-w-28"
                 src="~assets/img/landing/eduvacity.png"
@@ -20,7 +20,7 @@
               @click="toggleLeftDrawer"
               class="md:tw-hidden"
             >
-              <svg width="32" height="16" viewBox="0 0 32 16" xmlns="http://www.w3.org/2000/svg">
+              <svg width="32" class="tw-text-primaryColor tw-fill-current" height="16" viewBox="0 0 32 16" xmlns="http://www.w3.org/2000/svg">
                 <rect width="32" height="2" rx="1" fill="#1E136B"/>
                 <rect y="7" width="26" height="2" rx="1" fill="#1E136B"/>
                 <rect y="14" width="25" height="2" rx="1" fill="#1E136B"/>
@@ -34,7 +34,7 @@
               />
             </q-toolbar-title>
 
-            <div class="tw-flex tw-justify-center tw-w-1/2">
+            <div class="md:tw-flex tw-justify-center tw-w-1/2 tw-hidden">
               <q-btn-dropdown label="Schools" class="tw-text-base tw-w-36" flat no-caps color="black">
                 <q-list>
                   <q-item clickable v-close-popup @click="onItemClick">
@@ -49,35 +49,50 @@
               <q-btn color="black" class="tw-w-36" label="Pricing" no-caps flat @click="onClick" />
             </div>
             
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7neQpqqJ9a2OLmnIE6dLSa6WzAW7bBXVjKmbeeOzwXBKZoQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">
-              <div class="tw-text-base tw-w-44 lg:tw-w-56 tw-text-center tw-hidden md:tw-block">
-                <q-btn color="accent" label="Apply Now" no-caps unelevated class="tw-w-32 tw-py-2 tw-rounded-3xl" />
-              </div>
-            </a>
+            <div class="tw-text-base tw-w-44 lg:tw-w-56 tw-text-center tw-hidden md:tw-block">
+              <q-btn color="accent" label="Apply Now" no-caps unelevated class="tw-w-32 tw-py-2" />
+            </div>
           </q-toolbar>
         </div>
 
         <q-drawer
           v-model="leftDrawerOpen"
-          class="tw-bg-primaryColor"
+          class="tw-bg-white"
           side="right"
         >
           <q-list class="tw-mt-6">
-            <a href="#about">
+            <q-expansion-item
+              expand-separator
+              label="Schools"
+              class="tw-text-base tw-text-primaryColor"
+            >
+              <div class="tw-ml-2 tw-text-sm">
+                <q-item clickable v-ripple @click="leftDrawerOpen = false">
+                  <q-item-section class="tw-text-sm tw-text-primaryColor">Photos</q-item-section>
+                </q-item>
+                <q-item clickable v-ripple @click="leftDrawerOpen = false">
+                  <q-item-section class="tw-text-sm tw-text-primaryColor">Gallery</q-item-section>
+                </q-item>
+              </div>
+            </q-expansion-item>
+            <a href="">
               <q-item clickable v-ripple @click="leftDrawerOpen = false">
-                <q-item-section class="tw-text-base tw-text-white">Who we are</q-item-section>
+                <q-item-section class="tw-text-base tw-text-primaryColor">Why choose us</q-item-section>
               </q-item>
             </a>
-            <a href="#footer">
+            <a href="">
               <q-item clickable v-ripple @click="leftDrawerOpen = false">
-                <q-item-section class="tw-text-base tw-text-white">Contact</q-item-section>
+                <q-item-section class="tw-text-base tw-text-primaryColor">Partnerships</q-item-section>
+              </q-item>
+            </a>
+            <a href="">
+              <q-item clickable v-ripple @click="leftDrawerOpen = false">
+                <q-item-section class="tw-text-base tw-text-primaryColor">Pricing</q-item-section>
               </q-item>
             </a>
           </q-list>
           <q-card-actions @click="leftDrawerOpen = false" align="center">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7neQpqqJ9a2OLmnIE6dLSa6WzAW7bBXVjKmbeeOzwXBKZoQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">
-              <q-btn no-caps unelevated color="accent" class="tw-w-56 tw-h-12 tw-rounded-lg" label="Apply Now" />
-            </a>
+            <q-btn no-caps unelevated color="accent" class="tw-w-56 tw-h-12" label="Apply Now" />
           </q-card-actions>
         </q-drawer>
 
