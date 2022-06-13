@@ -1,9 +1,9 @@
 <template>
   <div class="tw-mt-44">
     <div class="tw-flex tw-justify-center bg-accent tw-h-80">
-      <div class="step">
+      <div class="">
         <q-img
-          class="tw-w-120 -tw-mt-48"
+          class="tw-w-120 -tw-mt-48 step"
           src="~assets/img/landing/hero.png"
         />
       </div>
