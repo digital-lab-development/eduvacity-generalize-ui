@@ -1,5 +1,5 @@
 <template>
-  <div class="tw-my-32 tw-bg-pinkBGColor">
+  <div class="tw-mt-32 tw-bg-pinkBGColor">
     <div class="row tw-justify-start">
       <div class="tw-flex tw-justify-start">
         <div>
