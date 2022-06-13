@@ -2,7 +2,7 @@
   <q-layout view="lHh Lpr lFf">
     <div class="row tw-justify-center">
       <div class="col-12 col-xl-9">
-        <div class="tw-bg-white tw-pt-4">
+        <div class="tw-bg-gradient-to-l tw-from-lightPink tw-to-white tw-pt-4">
           <q-toolbar class="tw-w-flex tw-justify-center">
             <div class="tw-text-base md:tw-hidden">
               <q-img
@@ -35,7 +35,7 @@
             </q-toolbar-title>
 
             <div class="md:tw-flex tw-justify-center tw-w-1/2 tw-hidden">
-              <q-btn-dropdown label="Schools" class="tw-text-base tw-w-36" flat no-caps color="black">
+              <q-btn-dropdown label="Schools" class="tw-text-base tw-w-36 tw-font-semibold" flat no-caps color="black">
                 <q-list>
                   <q-item clickable v-close-popup @click="onItemClick">
                     <q-item-section>
@@ -44,13 +44,13 @@
                   </q-item>
                 </q-list>
               </q-btn-dropdown>
-              <q-btn color="black" class="tw-w-36" label="Why choose us" no-caps flat @click="onClick" />
-              <q-btn color="black" class="tw-w-36" label="Partnerships" no-caps flat @click="onClick" />
-              <q-btn color="black" class="tw-w-36" label="Pricing" no-caps flat @click="onClick" />
+              <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Why choose us" no-caps flat @click="onClick" />
+              <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Partnerships" no-caps flat @click="onClick" />
+              <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Pricing" no-caps flat @click="onClick" />
             </div>
             
             <div class="tw-text-base tw-w-44 lg:tw-w-56 tw-text-center tw-hidden md:tw-block">
-              <q-btn color="accent" label="Apply Now" no-caps unelevated class="tw-w-32 tw-py-2" />
+              <q-btn color="accent" label="Apply Now" no-caps unelevated class="tw-w-32 tw-py-2 tw-font-semibold" />
             </div>
           </q-toolbar>
         </div>
@@ -64,35 +64,35 @@
             <q-expansion-item
               expand-separator
               label="Schools"
-              class="tw-text-base tw-text-primaryColor"
+              class="tw-text-base tw-text-primaryColor tw-font-semibold"
             >
               <div class="tw-ml-2 tw-text-sm">
                 <q-item clickable v-ripple @click="leftDrawerOpen = false">
-                  <q-item-section class="tw-text-sm tw-text-primaryColor">Photos</q-item-section>
+                  <q-item-section class="tw-text-sm tw-text-primaryColor tw-font-semibold">Photos</q-item-section>
                 </q-item>
                 <q-item clickable v-ripple @click="leftDrawerOpen = false">
-                  <q-item-section class="tw-text-sm tw-text-primaryColor">Gallery</q-item-section>
+                  <q-item-section class="tw-text-sm tw-text-primaryColor tw-font-semibold">Gallery</q-item-section>
                 </q-item>
               </div>
             </q-expansion-item>
             <a href="">
               <q-item clickable v-ripple @click="leftDrawerOpen = false">
-                <q-item-section class="tw-text-base tw-text-primaryColor">Why choose us</q-item-section>
+                <q-item-section class="tw-text-base tw-text-primaryColor tw-font-semibold">Why choose us</q-item-section>
               </q-item>
             </a>
             <a href="">
               <q-item clickable v-ripple @click="leftDrawerOpen = false">
-                <q-item-section class="tw-text-base tw-text-primaryColor">Partnerships</q-item-section>
+                <q-item-section class="tw-text-base tw-text-primaryColor tw-font-semibold">Partnerships</q-item-section>
               </q-item>
             </a>
             <a href="">
               <q-item clickable v-ripple @click="leftDrawerOpen = false">
-                <q-item-section class="tw-text-base tw-text-primaryColor">Pricing</q-item-section>
+                <q-item-section class="tw-text-base tw-text-primaryColor tw-font-semibold">Pricing</q-item-section>
               </q-item>
             </a>
           </q-list>
           <q-card-actions @click="leftDrawerOpen = false" align="center">
-            <q-btn no-caps unelevated color="accent" class="tw-w-56 tw-h-12" label="Apply Now" />
+            <q-btn no-caps unelevated color="accent" class="tw-w-56 tw-h-12 tw-font-semibold" label="Apply Now" />
           </q-card-actions>
         </q-drawer>
 

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="tw-bg-jumbotron-section tw-h-screen">
     <talents-section></talents-section>
   </div>
 </template>

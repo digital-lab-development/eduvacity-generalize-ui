@@ -4,7 +4,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primaryColor': '#1e136b'
+        'primaryColor': '#1e136b',
+        'lightPink': '#fffcfe'
+      },
+      spacing: {
+        100: '26rem',
+      },
+      backgroundImage: {
+        'jumbotron-section': "url('src/assets/img/landing/sprite.png')",
       }
     },
   },
