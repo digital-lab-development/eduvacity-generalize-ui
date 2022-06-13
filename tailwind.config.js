@@ -6,10 +6,12 @@ module.exports = {
       colors: {
         'primaryColor': '#1e136b',
         'lightPink': '#fffcfe',
-        'pinkBGColor': '#fff3f8'
+        'pinkBGColor': '#fff3f8',
+        'comingsoonColor': '#ebdfeb'
       },
       spacing: {
         100: '26rem',
+        110: '30rem',
         120: '36rem',
       },
       backgroundImage: {

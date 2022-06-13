@@ -13,7 +13,7 @@
             We get you the best learning <br>
             experience.
           </div>
-          <div class="tw-pt-4 tw-text-base">
+          <div class="tw-pt-4">
             Eduvacity helps you understand the world’s needs by crafting a robust <br>
             learning curriculum that is well crafted and easy to understand, we focus <br>
             on interactive, and collaborative learning experiences to enhance <br>
