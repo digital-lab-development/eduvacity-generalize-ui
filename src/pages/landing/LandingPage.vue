@@ -5,6 +5,7 @@
   <learning-section></learning-section>
   <engage-guide-section></engage-guide-section>
   <get-started-section></get-started-section>
+  <content-section></content-section>
 </template>
 
 <script>
@@ -13,6 +14,7 @@ import TalentsSection from 'components/landing/TalentsSection.vue'
 import LearningSection from 'components/landing/LearningSection.vue'
 import EngageGuideSection from 'components/landing/EngageGuideSection.vue'
 import GetStartedSection from 'components/landing/GetStartetSection.vue'
+import ContentSection from 'components/landing/ContentSection.vue'
 
 export default defineComponent({
   name: "LandingPage",
@@ -20,7 +22,8 @@ export default defineComponent({
     TalentsSection,
     LearningSection,
     EngageGuideSection,
-    GetStartedSection
+    GetStartedSection,
+    ContentSection
   },
   setup() {
     
