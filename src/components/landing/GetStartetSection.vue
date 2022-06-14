@@ -10,8 +10,8 @@
         We evaluate each learner’s knowledge level <br class="sm:tw-hidden"> with a point and reward <br class="tw-hidden sm:tw-block">
         system which brings fun <br class="sm:tw-hidden"> and curiosity while learning.
       </div>
-      <div class="tw-flex tw-justify-center tw-mt-12">
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3">
+      <div class="sm:tw-flex tw-justify-center tw-mt-12">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5">
           <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Programming school
           </div>
@@ -30,7 +30,7 @@
             </q-btn>
           </div>
         </div>
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5">
           <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Design school
           </div>
@@ -46,8 +46,8 @@
           </div>
         </div>
       </div>
-      <div class="tw-flex tw-justify-center tw-mt-5">
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3">
+      <div class="sm:tw-flex tw-justify-center tw-mt-5">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5">
           <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Product school
           </div>
@@ -66,7 +66,7 @@
             </q-btn>
           </div>
         </div>
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5">
           <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Business school
           </div>
