@@ -17,6 +17,7 @@ module.exports = {
       },
       backgroundImage: {
         'jumbotron-section': "url('src/assets/img/landing/sprite.png')",
+        'small-jumbotron-section': "url('src/assets/img/landing/small-sprite.png')",
         'learning-section': "url('src/assets/img/landing/sprite2.png')",
         'students-section': "url('src/assets/img/landing/sprite3.png')",
       }

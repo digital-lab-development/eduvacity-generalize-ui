@@ -2,7 +2,7 @@
   <q-layout view="lHh Lpr lFf">
     <div class="row tw-justify-center">
       <div class="col-12 col-xl-9">
-        <div class="tw-bg-gradient-to-l tw-from-lightPink tw-to-white tw-pt-4">
+        <div class="lg:tw-bg-gradient-to-l tw-from-lightPink tw-to-white tw-pt-4">
           <q-toolbar class="tw-w-flex tw-justify-center">
             <div class="tw-text-base lg:tw-hidden">
               <q-img
