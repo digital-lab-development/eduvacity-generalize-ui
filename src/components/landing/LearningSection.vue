@@ -1,22 +1,22 @@
 <template>
-  <div class="tw-mt-32 tw-bg-pinkBGColor">
+  <div class="lg:tw-mt-32 tw-bg-pinkBGColor">
     <div class="row tw-justify-start">
       <div class="tw-flex tw-justify-start">
         <div>
           <q-img
-            class="tw-w-120 tw-h-full tw-object-fill"
+            class="tw-w-96 lg:tw-w-120 tw-h-full tw-object-cover"
             src="~assets/img/landing/learning.png"
           />
         </div>
-        <div class="tw-pl-16 tw-pt-8">
-          <div class="tw-text-4xl tw-font-extrabold text-accent">
-            We get you the best learning <br>
+        <div class="lg:tw-pl-16 tw-pl-4 tw-pt-8">
+          <div class="tw-text-3xl lg:tw-text-4xl tw-font-extrabold text-accent">
+            We get you the best learning <br class="tw-hidden lg:tw-block">
             experience.
           </div>
           <div class="tw-pt-4">
-            Eduvacity helps you understand the world’s needs by crafting a robust <br>
-            learning curriculum that is well crafted and easy to understand, we focus <br>
-            on interactive, and collaborative learning experiences to enhance <br>
+            Eduvacity helps you understand the world’s needs by crafting a robust <br class="tw-hidden lg:tw-block">
+            learning curriculum that is well crafted and easy to understand, we focus <br class="tw-hidden lg:tw-block">
+            on interactive, and collaborative learning experiences to enhance <br class="tw-hidden lg:tw-block">
             engagement and improve knowledge retention.
           </div>
           <div class="tw-flex tw-mt-8">

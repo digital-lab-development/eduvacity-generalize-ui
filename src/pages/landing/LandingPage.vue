@@ -1,5 +1,5 @@
 <template>
-  <div class="tw-bg-small-jumbotron-section tw-bg-no-repeat lg:tw-bg-jumbotron-section tw-h-screen">
+  <div class="tw-bg-small-jumbotron-section tw-bg-no-repeat lg:tw-bg-jumbotron-section lg:tw-h-screen">
     <talents-section></talents-section>
   </div>
   <learning-section></learning-section>

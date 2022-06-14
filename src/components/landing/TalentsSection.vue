@@ -1,6 +1,6 @@
 <template>
   <div class="tw-flex tw-justify-center">
-    <div class="lg:tw-mt-32 tw-mt-20">
+    <div class="lg:tw-mt-32 tw-pb-20 lg:tw-pb-0 tw-mt-20">
       <div class="tw-flex md:tw-justify-between lg:tw-justify-center">
         <div class="tw-pt-12 md:-tw-ml-6 lg:-tw-ml-0 lg:tw-mr-36">
           <div class="tw-text-2xl lg:tw-text-4xl tw-font-extrabold tw-text-primaryColor">
