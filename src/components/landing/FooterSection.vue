@@ -1,67 +1,67 @@
 <template>
   <div class="tw-bg-primaryColor tw-h-80">
     <div class="tw-flex tw-text-white tw-justify-evenly tw-pt-16">
-      <div class="tw-w-80 tw-pt-16">
+      <div class="tw-w-72 lg:tw-w-80 tw-pt-16">
         Eduvacity is a platform that provides people with essential knowledge, 
         skills, and experience in  industry. We strive to find the Gaps in 
         expertise and proficiency.
       </div>
       <div>
-        <div class="tw-text-base tw-font-semibold">
+        <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Our Programs
         </div>
-        <div class="tw-pt-5">
+        <div class="tw-pt-5 lg:tw-text-sm tw-text-xs">
           Programming
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Security
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           UI/UX Design
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Digital Marketing
         </div>
       </div>
       <div>
-        <div class="tw-text-base tw-font-semibold">
+        <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Company
         </div>
-        <div class="tw-pt-5">
+        <div class="tw-pt-5 lg:tw-text-sm tw-text-xs">
           About us
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Partnerships
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Trainings
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Affiliate
         </div>
       </div>
       <div>
-        <div class="tw-text-base tw-font-semibold">
+        <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Support
         </div>
-        <div class="tw-pt-5">
+        <div class="tw-pt-5 lg:tw-text-sm tw-text-xs">
           FAQ's/Helps
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Blog
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Policy
         </div>
       </div>
       <div>
-        <div class="tw-text-base tw-font-semibold">
+        <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Support
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           <a href="mailto:office@digilab.io">office@digilab.io</a>
         </div>
-        <div class="tw-pt-3">
+        <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           <a href="tel:+2349131595822">09131595822</a>
         </div>
         <div class="tw-flex tw-mt-2">
