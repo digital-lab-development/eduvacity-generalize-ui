@@ -4,14 +4,14 @@
       <div class="tw-text-xl sm:tw-text-3xl tw-text-center tw-text-primaryColor tw-font-extrabold">
         Become a highly in demand talent
       </div>
-      <div class="tw-text-center tw-pt-4">
-        Supporting learners in obtaining mastery and proficiency <br> using a flexible learning approach <br class="tw-hidden sm:tw-block">
-        that creates valuable <br class="sm:tw-hidden"> impacts which are modified to give proficiency to each <br class="sm:tw-hidden"> learner. <br class="tw-hidden sm:tw-block">
-        We evaluate each learner’s knowledge level <br class="sm:tw-hidden"> with a point and reward <br class="tw-hidden sm:tw-block">
-        system which brings fun <br class="sm:tw-hidden"> and curiosity while learning.
+      <div class="sm:tw-text-center tw-px-4 sm:tw-px-0 tw-pt-4">
+        Supporting learners in obtaining mastery and proficiency using a flexible learning approach <br class="tw-hidden sm:tw-block">
+        that creates valuable impacts which are modified to give proficiency to each learner. <br class="tw-hidden sm:tw-block">
+        We evaluate each learner’s knowledge level with a point and reward <br class="tw-hidden sm:tw-block">
+        system which brings fun and curiosity while learning.
       </div>
       <div class="sm:tw-flex tw-justify-center tw-mt-12">
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5 tw-mx-auto">
           <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Programming school
           </div>
@@ -30,7 +30,7 @@
             </q-btn>
           </div>
         </div>
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5 tw-mx-auto">
           <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Design school
           </div>
@@ -47,7 +47,7 @@
         </div>
       </div>
       <div class="sm:tw-flex tw-justify-center tw-mt-5">
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5 tw-mx-auto">
           <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Product school
           </div>
@@ -66,7 +66,7 @@
             </q-btn>
           </div>
         </div>
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 tw-mx-1 lg:tw-mx-3 tw-mt-5 tw-mx-auto">
           <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Business school
           </div>

@@ -4,11 +4,11 @@
       <div class="">
         Hear it from our students
       </div>
-      <div class="tw-text-primaryColor tw-text-3xl tw-font-extrabold tw-pt-2">
+      <div class="tw-text-primaryColor tw-text-xl sm:tw-text-3xl tw-font-extrabold tw-pt-2">
         They are out to make changes
       </div>
     </div>
-    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mt-12 lg:tw-mt-24">
+    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mt-5 sm:tw-mt-12 lg:tw-mt-24">
       <q-card flat class="tw-mx-4 sm:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
         <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
           "I don't know what it is about this school but I am just so happy to be a part of it. 
