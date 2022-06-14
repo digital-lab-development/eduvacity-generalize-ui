@@ -1,12 +1,12 @@
 <template>
-  <div class="tw-bg-primaryColor tw-h-80">
-    <div class="tw-flex tw-text-white tw-justify-evenly tw-pt-16">
-      <div class="tw-w-72 lg:tw-w-80 tw-pt-16">
+  <div class="tw-bg-primaryColor sm:tw-h-96">
+    <div class="tw-flex tw-flex-wrap tw-text-white lg:tw-justify-evenly tw-pt-16">
+      <div class="tw-px-6 sm:tw-w-72 lg:tw-w-80 lg:tw-pt-16">
         Eduvacity is a platform that provides people with essential knowledge, 
         skills, and experience in  industry. We strive to find the Gaps in 
         expertise and proficiency.
       </div>
-      <div>
+      <div class="tw-mt-4 sm:tw-mt-0 tw-w-36 sm:tw-w-32 tw-text-left tw-pl-6">
         <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Our Programs
         </div>
@@ -23,7 +23,7 @@
           Digital Marketing
         </div>
       </div>
-      <div>
+      <div class="tw-mt-4 sm:tw-mt-0 tw-w-36 sm:tw-w-32 tw-text-left tw-pl-6">
         <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Company
         </div>
@@ -40,7 +40,7 @@
           Affiliate
         </div>
       </div>
-      <div>
+      <div class="tw-mt-8 sm:tw-mt-0 tw-w-36 sm:tw-w-32 tw-text-left tw-pl-6">
         <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Support
         </div>
@@ -54,7 +54,7 @@
           Policy
         </div>
       </div>
-      <div>
+      <div class="tw-mt-8 sm:tw-mt-0 tw-w-36 sm:tw-w-32 tw-text-left tw-pl-6">
         <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Support
         </div>
@@ -93,6 +93,9 @@
           </q-btn>
         </div>
       </div>
+    </div>
+    <div class="tw-text-center tw-py-10 tw-text-white tw-text-xs sm:tw-text-sm">
+      All rights reserved
     </div>
   </div>
 </template>
