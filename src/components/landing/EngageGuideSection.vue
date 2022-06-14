@@ -1,10 +1,10 @@
 <template>
   <div class="tw-bg-gradient-to-b tw-from-pinkBGColor tw-to-white">
-    <div class="tw-pt-24 tw-text-center lg:tw-text-left lg:tw-pl-24 tw-text-3xl tw-text-primaryColor tw-font-extrabold">
+    <div class="tw-pt-12 sm:tw-pt-24 tw-text-center lg:tw-text-left lg:tw-pl-24 tw-text-xl sm:tw-text-3xl tw-text-primaryColor tw-font-extrabold">
       Get engage while learning
     </div>
-    <div class="tw-flex tw-justify-center tw-mx-4 lg:tw-mx-0">
-      <div class="tw-flex tw-mt-14 tw-w-120">
+    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mx-4 lg:tw-mx-0">
+      <div class="tw-flex tw-mt-5 sm:tw-mt-14 tw-w-120">
         <div class="tw-pr-2 tw-pt-0.5">
           <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M17.5 0.54895L5.875 14.0302L2.5 11.3345H0.625L5.875 20.3215L19.375 0.54895H17.5Z" fill="#5240CB"/>
@@ -21,7 +21,7 @@
           </div>
         </div>
       </div>
-      <div class="tw-flex tw-mt-14 tw-w-120">
+      <div class="tw-flex tw-mt-5 sm:tw-mt-14 tw-w-120">
         <div class="tw-pr-2 tw-pt-0.5">
           <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M17.5 0.54895L5.875 14.0302L2.5 11.3345H0.625L5.875 20.3215L19.375 0.54895H17.5Z" fill="#5240CB"/>
@@ -40,8 +40,8 @@
         </div>
       </div>
     </div>
-    <div class="tw-flex tw-justify-center tw-mx-4 lg:tw-mx-0 tw-mt-14">
-      <div class="tw-flex tw-w-120">
+    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mx-4 lg:tw-mx-0">
+      <div class="tw-flex tw-mt-5 sm:tw-mt-14 tw-w-120">
         <div class="tw-pr-2 tw-pt-0.5">
           <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M17.5 0.54895L5.875 14.0302L2.5 11.3345H0.625L5.875 20.3215L19.375 0.54895H17.5Z" fill="#5240CB"/>
@@ -58,7 +58,7 @@
           </div>
         </div>
       </div>
-      <div class="tw-flex tw-w-120">
+      <div class="tw-flex tw-mt-5 sm:tw-mt-14 tw-w-120">
         <div class="tw-pr-2 tw-pt-0.5">
           <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M17.5 0.54895L5.875 14.0302L2.5 11.3345H0.625L5.875 20.3215L19.375 0.54895H17.5Z" fill="#5240CB"/>
