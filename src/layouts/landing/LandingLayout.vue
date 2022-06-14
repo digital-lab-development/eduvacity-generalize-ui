@@ -4,7 +4,7 @@
       <div class="col-12 col-xl-9">
         <div class="tw-bg-gradient-to-l tw-from-lightPink tw-to-white tw-pt-4">
           <q-toolbar class="tw-w-flex tw-justify-center">
-            <div class="tw-text-base md:tw-hidden">
+            <div class="tw-text-base lg:tw-hidden">
               <q-img
                 class="tw-w-28"
                 src="~assets/img/landing/eduvacity.png"
@@ -18,7 +18,7 @@
               color="accent"
               aria-label="Menu"
               @click="toggleLeftDrawer"
-              class="md:tw-hidden"
+              class="lg:tw-hidden"
             >
               <svg width="32" class="tw-text-primaryColor tw-fill-current" height="16" viewBox="0 0 32 16" xmlns="http://www.w3.org/2000/svg">
                 <rect width="32" height="2" rx="1" fill="#1E136B"/>
@@ -27,14 +27,14 @@
               </svg>
             </q-btn>
 
-            <q-toolbar-title class="md:-tw-ml-44 lg:-tw-ml-56 tw-hidden md:tw-block">
+            <q-toolbar-title class="lg:-tw-ml-56 tw-hidden lg:tw-block">
               <q-img
                 class="tw-w-32"
                 src="~assets/img/landing/eduvacity.png"
               />
             </q-toolbar-title>
 
-            <div class="md:tw-flex tw-justify-center tw-w-1/2 tw-hidden">
+            <div class="lg:tw-flex tw-justify-center tw-w-1/2 tw-hidden">
               <q-btn-dropdown label="Schools" class="tw-text-base tw-w-36 tw-font-semibold" flat no-caps color="black">
                 <q-list>
                   <q-item clickable v-close-popup @click="onItemClick">
@@ -49,7 +49,7 @@
               <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Pricing" no-caps flat @click="onClick" />
             </div>
             
-            <div class="tw-text-base tw-w-44 lg:tw-w-56 tw-text-center tw-hidden md:tw-block">
+            <div class="tw-text-base tw-w-44 lg:tw-w-56 tw-text-center tw-hidden lg:tw-block">
               <q-btn color="accent" label="Apply Now" no-caps unelevated class="tw-w-32 tw-py-2 tw-font-semibold" />
             </div>
           </q-toolbar>
