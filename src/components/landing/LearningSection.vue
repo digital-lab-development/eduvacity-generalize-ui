@@ -1,15 +1,15 @@
 <template>
   <div class="tw-bg-pinkBGColor">
     <div class="row tw-justify-start">
-      <div class="tw-flex tw-justify-start">
-        <div>
+      <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center sm:tw-justify-start">
+        <div class="tw-mt-6 sm:tw-mt-0">
           <q-img
-            class="tw-w-96 lg:tw-w-120 tw-h-full tw-object-cover"
+            class="tw-w-96 tw-rounded-lg sm:tw-rounded-none lg:tw-w-120 tw-h-full tw-object-cover"
             src="~assets/img/landing/learning.png"
           />
         </div>
         <div class="lg:tw-pl-16 tw-pl-4 tw-pt-8">
-          <div class="tw-text-3xl lg:tw-text-4xl tw-font-extrabold text-accent">
+          <div class="tw-text-xl md:tw-text-3xl lg:tw-text-4xl tw-font-extrabold text-accent">
             We get you the best learning <br class="tw-hidden lg:tw-block">
             experience.
           </div>
