@@ -11,6 +11,7 @@ module.exports = {
         'studentsBGColor': '#fff8fb'
       },
       spacing: {
+        85: '23rem',
         100: '26rem',
         110: '30rem',
         120: '36rem',

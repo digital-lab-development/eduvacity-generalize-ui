@@ -1,9 +1,9 @@
 <template>
   <div class="tw-flex tw-justify-center">
     <div class="lg:tw-mt-32 tw-pb-20 lg:tw-pb-0 tw-mt-20">
-      <div class="tw-flex md:tw-justify-between lg:tw-justify-center">
-        <div class="tw-pt-12 md:-tw-ml-6 lg:-tw-ml-0 lg:tw-mr-36">
-          <div class="tw-text-2xl lg:tw-text-4xl tw-font-extrabold tw-text-primaryColor">
+      <div class="tw-flex tw-flex-wrap-reverse tw-justify-center sm:tw-flex-nowrap md:tw-justify-between lg:tw-justify-center">
+        <div class="tw-pt-12 sm:tw-ml-2 md:-tw-ml-6 lg:-tw-ml-0 lg:tw-mr-36">
+          <div class="tw-text-xl lg:tw-text-4xl tw-font-extrabold tw-text-primaryColor">
             <div class="tw-pt-2">
               Producing High-in-Demand
             </div>
@@ -11,13 +11,13 @@
               World class Talents
             </div>
           </div>
-          <div class="tw-text-gray-500 tw-font-semibold lg:tw-text-base tw-pt-4">
+          <div class="tw-text-gray-500 tw-font-semibold md:tw-text-xs lg:tw-text-base tw-pt-4">
             Supporting learners in obtaining mastery <br class="lg:tw-hidden"> and proficiency <br class="tw-hidden lg:tw-block">
             using a flexible learning <br class="lg:tw-hidden"> approach
           </div>
-          <div class="md:tw-flex tw-hidden tw-mt-5">
+          <div class="tw-flex tw-mt-5">
             <div class="tw-mt-4">
-              <q-btn no-caps unelevated class="tw-w-36 tw-py-3 tw-font-semibold" color="accent" label="Apply Now" />
+              <q-btn no-caps unelevated class="md:tw-w-36 tw-py-3 tw-font-semibold" color="accent" label="Apply Now" />
             </div>
             <div class="tw-m-4 tw-flex">
               <svg class="tw-absolute tw-ml-3 tw-mt-3.5" width="20" height="20" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -26,51 +26,51 @@
               <svg class="tw-mt-1" width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="21" cy="21" r="20.5" fill="white" stroke="#1E136B"/>
               </svg>
-              <q-btn no-caps class="tw-text-base tw-w-56 tw-py-3 tw-font-semibold -tw-ml-12 tw-pl-14" color="accent" flat label="Watch intro video" />
+              <q-btn no-caps class="md:tw-text-base md:tw-w-56 tw-py-3 tw-font-semibold -tw-ml-12 tw-pl-14" color="accent" flat label="Watch intro video" />
             </div>
           </div>
         </div>
-        <div class="tw-border-2 tw-border-white tw-w-80 tw-h-80 lg:tw-w-100 lg:tw-h-100 tw-rounded-full tw-mr-12">
-          <div class="tw-flex tw-justify-start tw-mt-5">
-            <div class="tw-border-2 tw-border-white tw-w-44 tw-h-20 lg:tw-w-64 lg:tw-h-28 step tw-rounded-2xl">
+        <div class="tw-border-2 tw-border-white tw-w-60 tw-h-60 sm:tw-w-72 sm:tw-h-72 md:tw-w-72 md:tw-h-72 lg:tw-w-100 lg:tw-h-100 tw-rounded-full md:tw-mr-12">
+          <div class="tw-flex tw-justify-start tw-mt-3 lg:tw-mt-5">
+            <div class="tw-border-2 tw-border-white tw-w-36 tw-h-16 sm:tw-w-44 sm:tw-h-20 lg:tw-w-64 lg:tw-h-28 step tw-rounded-2xl">
               <div class="tw-flex">
-                <div class="tw-border-2 tw-border-white tw-h-full tw-rounded-full tw-mt-3 -tw-ml-7">
+                <div class="tw-border-2 tw-border-white tw-h-full tw-rounded-full tw-mt-3 -tw-ml-5 sm:-tw-ml-7">
                   <q-img
-                    class="lg:tw-w-20 tw-w-10 tw-h-10 lg:tw-h-20 tw-rounded-full"
+                    class="lg:tw-w-20 tw-w-8 tw-h-8 sm:tw-w-10 sm:tw-h-10 lg:tw-h-20 tw-rounded-full"
                     src="~assets/img/landing/john.jpg"
                   />
                 </div>
-                <div class="lg:tw-mt-5 tw-mt-2 tw-ml-2 lg:tw-ml-4">
+                <div class="lg:tw-mt-5 tw-mt-2 tw-ml-1 sm:tw-ml-2 lg:tw-ml-4">
                   <div class="tw-font-semibold tw-text-xs lg:tw-text-base tw-text-gray-600">
                     John Sadam
                   </div>
-                  <div class="tw-pt-2 tw-text-gray-500 tw-text-xs lg:tw-text-sm">
+                  <div class="sm:tw-pt-2 tw-text-gray-500 tw-text-xs lg:tw-text-sm tw-truncate tw-w-24 sm:tw-w-36">
                     Backend developer
                   </div>
-                  <div class="tw-text-gray-500">
+                  <div class="tw-text-gray-500 tw-text-xs lg:tw-text-sm">
                     Nigeria
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="tw-flex tw-justify-start tw-mt-5">
-            <div class="tw-border-2 tw-border-white md:-tw-ml-14 lg:-tw-ml-28 tw-w-44 tw-h-20 lg:tw-w-64 lg:tw-h-28 step tw-rounded-2xl">
+          <div class="tw-flex tw-justify-start tw-mt-2 md:tw-mt-3 lg:tw-mt-5">
+            <div class="tw-border-2 tw-border-white -tw-ml-12 md:-tw-ml-20 lg:-tw-ml-28 tw-w-36 tw-h-16 sm:tw-w-44 sm:tw-h-20 lg:tw-w-64 lg:tw-h-28 step tw-rounded-2xl">
               <div class="tw-flex">
                 <div class="tw-border-2 tw-border-white tw-h-full tw-rounded-full tw-mt-3 -tw-ml-7">
                   <q-img
-                    class="lg:tw-w-20 tw-w-10 tw-h-10 lg:tw-h-20 tw-rounded-full"
+                    class="lg:tw-w-20 tw-w-8 tw-h-8 sm:tw-w-10 sm:tw-h-10 lg:tw-h-20 tw-rounded-full"
                     src="~assets/img/landing/fariha.jpg"
                   />
                 </div>
-                <div class="lg:tw-mt-5 tw-mt-2 tw-ml-2 lg:tw-ml-4">
+                <div class="lg:tw-mt-5 tw-mt-2 tw-ml-1 sm:tw-ml-2 lg:tw-ml-4">
                   <div class="tw-font-semibold tw-text-xs lg:tw-text-base tw-text-gray-600">
                     Fariha Umar
                   </div>
-                  <div class="tw-pt-2 tw-text-gray-500 tw-text-xs lg:tw-text-sm">
-                    UI/UX design
+                  <div class="sm:tw-pt-2 tw-text-gray-500 tw-text-xs lg:tw-text-sm tw-truncate tw-w-24 sm:tw-w-36">
+                    UI/UX designer
                   </div>
-                  <div class="tw-text-gray-500">
+                  <div class="tw-text-gray-500 tw-text-xs lg:tw-text-sm">
                     Egypt
                   </div>
                 </div>
@@ -78,49 +78,49 @@
             </div>
             <div class="tw-mx-1">
               <q-img
-                class="tw-w-16 lg:tw-w-28 hover:tw-animate-spin"
+                class="tw-w-10 sm:tw-w-16 lg:tw-w-28 hover:tw-animate-spin"
                 src="~assets/img/landing/logo.png"
               />
             </div>
-            <div class="tw-border-2 tw-border-white tw-w-44 tw-h-20 lg:tw-w-64 -tw-mr-24 lg:tw-h-28 step tw-rounded-2xl">
-              <div class="tw-flex tw-justify-end">
+            <div class="tw-border-2 tw-border-white tw-w-36 tw-h-16 sm:tw-w-44 sm:tw-h-20 lg:tw-w-64 -tw-mr-20 lg:tw-h-28 step tw-rounded-2xl">
+              <div class="tw-flex tw-justify-center">
                 <div class="lg:tw-mt-5 tw-mt-2 tw-mr-2 lg:tw-mr-6">
                   <div class="tw-font-semibold tw-text-xs lg:tw-text-base tw-text-gray-600">
                     Saint Moh
                   </div>
-                  <div class="tw-pt-2 tw-text-gray-500 tw-text-xs lg:tw-text-sm">
+                  <div class="sm:tw-pt-2 tw-text-gray-500 tw-text-xs lg:tw-text-sm tw-truncate tw-w-24 sm:tw-w-36">
                     Frontend developer
                   </div>
-                  <div class="tw-text-gray-500">
-                    United kingdom
+                  <div class="tw-text-gray-500 tw-text-xs lg:tw-text-sm">
+                    UK
                   </div>
                 </div>
-                <div class="tw-border-2 tw-border-white tw-rounded-full tw-h-full tw-mt-3 -tw-mr-8">
+                <div class="tw-border-2 tw-border-white tw-rounded-full tw-h-full tw-mt-3 -tw-mr-6 sm:-tw-mr-10">
                   <q-img
-                    class="lg:tw-w-20 tw-w-10 tw-h-10 lg:tw-h-20 tw-rounded-full"
+                    class="lg:tw-w-20 tw-w-8 tw-h-8 sm:tw-w-10 sm:tw-h-10 lg:tw-h-20 tw-rounded-full"
                     src="~assets/img/landing/saint.jpg"
                   />
                 </div>
               </div>
             </div>
           </div>
-          <div class="tw-flex tw-justify-end tw-mt-5">
-            <div class="tw-border-2 tw-border-white tw-w-44 tw-h-20 lg:tw-w-64 lg:tw-h-28 step tw-rounded-2xl">
-              <div class="tw-flex tw-justify-end">
+          <div class="tw-flex tw-justify-end tw-mt-2 md:tw-mt-3 lg:tw-mt-5">
+            <div class="tw-border-2 tw-border-white tw-w-36 tw-h-16 sm:tw-w-44 sm:tw-h-20 lg:tw-w-64 lg:tw-h-28 step tw-rounded-2xl">
+              <div class="tw-flex tw-justify-">
                 <div class="lg:tw-mt-5 tw-mt-2 tw-m-2 lg:tw-m-4">
                   <div class="tw-font-semibold tw-text-xs lg:tw-text-base tw-text-gray-600">
                     Chua Hua Lixin
                   </div>
-                  <div class="tw-pt-2 tw-text-gray-500 tw-text-xs lg:tw-text-sm">
-                    Product Management
+                  <div class="sm:tw-pt-2 tw-text-gray-500 tw-text-xs lg:tw-text-sm tw-truncate tw-w-24 sm:tw-w-36">
+                    UI/UX designer
                   </div>
-                  <div class="tw-text-gray-500">
+                  <div class="tw-text-gray-500 tw-text-xs lg:tw-text-sm">
                     Korea
                   </div>
                 </div>
-                <div class="tw-border-2 tw-border-white tw-h-full tw-rounded-full tw-mt-3 -tw-mr-7">
+                <div class="tw-border-2 tw-border-white tw-h-full tw-rounded-full tw-mt-3 -tw-mr-9 sm:-tw-mr-7">
                   <q-img
-                    class="lg:tw-w-20 tw-w-10 tw-h-10 lg:tw-h-20 tw-rounded-full"
+                    class="lg:tw-w-20 tw-w-8 tw-h-8 sm:tw-w-10 sm:tw-h-10 lg:tw-h-20 tw-rounded-full"
                     src="~assets/img/landing/chuhua.jpg"
                   />
                 </div>
