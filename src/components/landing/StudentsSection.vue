@@ -152,7 +152,7 @@
             <div>
               <q-img
                 class="tw-w-14 tw-h-14 tw-rounded-full"
-                src="~assets/img/landing/jack.jpg"
+                src="~assets/img/landing/jack.png"
               />
             </div>
             <div class="tw-ml-4 tw-mt-2">
