@@ -1,7 +1,7 @@
 <template>
   <div class="tw-mt-32">
     <div class="tw-flex tw-justify-center tw-mx-44">
-      <div class="tw-mr-44">
+      <div class="lg:tw-mr-44">
         <div class="tw-flex">
           <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
             <div class="tw-pt-9 tw-text-base">
