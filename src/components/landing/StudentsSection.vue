@@ -8,8 +8,8 @@
         They are out to make changes
       </div>
     </div>
-    <div class="tw-flex tw-justify-center tw-mt-12 lg:tw-mt-24">
-      <q-card flat class="tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-1 lg:tw-mx-3 step">
+    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mt-12 lg:tw-mt-24">
+      <q-card flat class="tw-mx-4 sm:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
         <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
           "I don't know what it is about this school but I am just so happy to be a part of it. 
           All the teachers and their expertise has helped me grow as a programmer and it is such 
@@ -35,7 +35,7 @@
           </div>
         </q-card-actions>
       </q-card>
-      <q-card flat class="tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-1 lg:tw-mx-3 step">
+      <q-card flat class="tw-mx-4 sm:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
         <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
           "It really saves me time and effort, eduvacity is exactly what iur bussiness has been lacking. 
           I could probably go into sales for you"
@@ -59,7 +59,7 @@
           </div>
         </q-card-actions>
       </q-card>
-      <q-card flat class="tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-1 lg:tw-mx-3 step">
+      <q-card flat class="tw-mx-4 sm:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
         <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
           "I enrolled in the Front-end development course and was very impressed with 
           the quality of the content. They were very informative videos that I could 
@@ -87,8 +87,8 @@
         </q-card-actions>
       </q-card>
     </div>
-    <div class="tw-flex tw-justify-center tw-mt-5">
-      <q-card flat class="tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-1 lg:tw-mx-3 step">
+    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mt-5">
+      <q-card flat class="tw-mx-4 sm:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
         <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
           Eduvacity been a true lifesaver for me in my programming endeavors. The have the 
           most incredible talent, and they also teaches me so much about how to succeed in 
@@ -114,7 +114,7 @@
           </div>
         </q-card-actions>
       </q-card>
-      <q-card flat class="tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-1 lg:tw-mx-3 step">
+      <q-card flat class="tw-mx-4 sm:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
         <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
           As a learner, one of the most important aspects of a platform is its ability to provide 
           access to great content and resources. I'm always looking for ways to improve my career 
@@ -141,7 +141,7 @@
           </div>
         </q-card-actions>
       </q-card>
-      <q-card flat class="tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-1 lg:tw-mx-3 step">
+      <q-card flat class="tw-mx-4 sm:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
         <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
           I am grateful to have found this site. They have so many resources of career thinking, 
           programming, design, and business that I never even knew existed. They not only help me 
