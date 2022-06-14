@@ -3,7 +3,7 @@
     <div class="tw-flex tw-justify-center tw-mx-44">
       <div class="tw-mr-44">
         <div class="tw-flex">
-          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
+          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
             <div class="tw-pt-9 tw-text-base">
               Students
             </div>
@@ -11,7 +11,7 @@
               1M+
             </div>
           </div>
-          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
+          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
             <div class="tw-pt-9 tw-text-base">
               Countries
             </div>
@@ -19,7 +19,7 @@
               12
             </div>
           </div>
-          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
+          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
             <div class="tw-pt-9 tw-text-base">
               Communities
             </div>
@@ -29,7 +29,7 @@
           </div>
         </div>
         <div class="tw-flex tw-mt-4">
-          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
+          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
             <div class="tw-pt-9 tw-text-base">
               Languages
             </div>
@@ -37,7 +37,7 @@
               3
             </div>
           </div>
-          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
+          <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-32 tw-h-32">
             <div class="tw-pt-9 tw-text-base">
               Partnerships
             </div>
@@ -56,7 +56,7 @@
       </div>
       <div class="tw-mt-20 tw-ml-36">
         <q-img
-          class="tw-w-36"
+          class="tw-w-36 hover:tw-w-40 tw-cursor-pointer"
           src="~assets/img/landing/logo2.png"
         />
       </div>

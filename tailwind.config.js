@@ -7,7 +7,8 @@ module.exports = {
         'primaryColor': '#1e136b',
         'lightPink': '#fffcfe',
         'pinkBGColor': '#fff3f8',
-        'comingsoonColor': '#ebdfeb'
+        'comingsoonColor': '#ebdfeb',
+        'studentsBGColor': '#fff8fb'
       },
       spacing: {
         100: '26rem',
@@ -17,6 +18,7 @@ module.exports = {
       backgroundImage: {
         'jumbotron-section': "url('src/assets/img/landing/sprite.png')",
         'learning-section': "url('src/assets/img/landing/sprite2.png')",
+        'students-section': "url('src/assets/img/landing/sprite3.png')",
       }
     },
   },

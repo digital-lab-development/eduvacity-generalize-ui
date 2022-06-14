@@ -1,0 +1,198 @@
+<template>
+  <div class="tw-pt-24">
+    <div class="tw-text-center">
+      <div class="">
+        Hear it from our students
+      </div>
+      <div class="tw-text-primaryColor tw-text-3xl tw-font-extrabold tw-pt-2">
+        They are out to make changes
+      </div>
+    </div>
+    <div class="tw-flex tw-justify-center tw-mt-24">
+      <q-card flat class="tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-3 step">
+        <div class="tw-mt-6 tw-mx-4 tw-h-52">
+          "I don't know what it is about this school but I am just so happy to be a part of it. 
+          All the teachers and their expertise has helped me grow as a programmer and it is such 
+          an invigorating experience. I never looked back after the first day and now I am exploring 
+          all these new opportunities, thanks to digital lab"
+        </div>
+        <q-card-actions class="tw-mb-6 tw-mt-3">
+          <div class="tw-flex tw-mx-4 avatar">
+            <div>
+              <q-img
+                class="tw-w-14 tw-h-14 tw-rounded-full"
+                src="~assets/img/landing/ibrahim.png"
+              />
+            </div>
+            <div class="tw-ml-4 tw-mt-2">
+              <div class="tw-font-semibold">
+                Ibrahim Musa Abbah
+              </div>
+              <div class="tw-text-gray-600">
+                Fullstack developer
+              </div>
+            </div>
+          </div>
+        </q-card-actions>
+      </q-card>
+      <q-card flat class="tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-3 step">
+        <div class="tw-mt-6 tw-mx-4 tw-h-52">
+          "It really saves me time and effort, eduvacity is exactly what iur bussiness has been lacking. 
+          I could probably go into sales for you"
+        </div>
+        <q-card-actions class="tw-mb-6 tw-mt-3">
+          <div class="tw-flex tw-mx-4 avatar">
+            <div>
+              <q-img
+                class="tw-w-14 tw-h-14 tw-rounded-full"
+                src="~assets/img/landing/temi.png"
+              />
+            </div>
+            <div class="tw-ml-4 tw-mt-2">
+              <div class="tw-font-semibold">
+                Temi Tope
+              </div>
+              <div class="tw-text-gray-600">
+                Digital marketing
+              </div>
+            </div>
+          </div>
+        </q-card-actions>
+      </q-card>
+      <q-card flat class="tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-3 step">
+        <div class="tw-mt-6 tw-mx-4 tw-h-52">
+          "I enrolled in the Front-end development course and was very impressed with 
+          the quality of the content. They were very informative videos that I could 
+          always watch as many times as needed to grasp a concept. The tutorials 
+          provided were easy to follow and I liked how all the steps were laid out 
+          for me at-a-glance"
+        </div>
+        <q-card-actions class="tw-mb-6 tw-mt-3">
+          <div class="tw-flex tw-mx-4 avatar">
+            <div>
+              <q-img
+                class="tw-w-14 tw-h-14 tw-rounded-full"
+                src="~assets/img/landing/fatima.png"
+              />
+            </div>
+            <div class="tw-ml-4 tw-mt-2">
+              <div class="tw-font-semibold">
+                Fatima Audu Alee
+              </div>
+              <div class="tw-text-gray-600">
+                Frontend developer
+              </div>
+            </div>
+          </div>
+        </q-card-actions>
+      </q-card>
+    </div>
+    <div class="tw-flex tw-justify-center tw-mt-5">
+      <q-card flat class="tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-3 step">
+        <div class="tw-mt-6 tw-mx-4 tw-h-52">
+          Eduvacity been a true lifesaver for me in my programming endeavors. The have the 
+          most incredible talent, and they also teaches me so much about how to succeed in 
+          this industry. I would recommend eduvacity to anyone and everyone who needs
+          programming assistance.
+        </div>
+        <q-card-actions class="tw-mb-6 tw-mt-3">
+          <div class="tw-flex tw-mx-4 avatar">
+            <div>
+              <q-img
+                class="tw-w-14 tw-h-14 tw-rounded-full"
+                src="~assets/img/landing/saeed.jpg"
+              />
+            </div>
+            <div class="tw-ml-4 tw-mt-2">
+              <div class="tw-font-semibold">
+                Haoma Sef
+              </div>
+              <div class="tw-text-gray-600">
+                Fullstack developer
+              </div>
+            </div>
+          </div>
+        </q-card-actions>
+      </q-card>
+      <q-card flat class="tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-3 step">
+        <div class="tw-mt-6 tw-mx-4 tw-h-52">
+          As a learner, one of the most important aspects of a platform is its ability to provide 
+          access to great content and resources. I'm always looking for ways to improve my career 
+          and eduvacity has been invaluable in this respect. There are so many great talent and self 
+          learning videos that are perfect for conveying a point or providing an illustration, plus
+          it's affordable.
+        </div>
+        <q-card-actions class="tw-mb-6 tw-mt-3">
+          <div class="tw-flex tw-mx-4 avatar">
+            <div>
+              <q-img
+                class="tw-w-14 tw-h-14 tw-rounded-full"
+                src="~assets/img/landing/sami.jpg"
+              />
+            </div>
+            <div class="tw-ml-4 tw-mt-2">
+              <div class="tw-font-semibold">
+                Joseph Faith
+              </div>
+              <div class="tw-text-gray-600">
+                UI/UX designer
+              </div>
+            </div>
+          </div>
+        </q-card-actions>
+      </q-card>
+      <q-card flat class="tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 tw-mx-3 step">
+        <div class="tw-mt-6 tw-mx-4 tw-h-52">
+          I am grateful to have found this site. They have so many resources of career thinking, 
+          programming, design, and business that I never even knew existed. They not only help me 
+          perform better in my career but also help me get started on my in research and development.
+        </div>
+        <q-card-actions class="tw-mb-6 tw-mt-3">
+          <div class="tw-flex tw-mx-4 avatar">
+            <div>
+              <q-img
+                class="tw-w-14 tw-h-14 tw-rounded-full"
+                src="~assets/img/landing/jack.jpg"
+              />
+            </div>
+            <div class="tw-ml-4 tw-mt-2">
+              <div class="tw-font-semibold">
+                Olori Glory
+              </div>
+              <div class="tw-text-gray-600">
+                Backend developer
+              </div>
+            </div>
+          </div>
+        </q-card-actions>
+      </q-card>
+    </div>
+  </div>
+</template>
+
+<script>
+import { defineComponent } from 'vue'
+
+export default defineComponent({
+  name: "StudentsSection",
+
+  setup() {
+    
+  },
+})
+</script>
+
+<style scoped>
+.step:hover {
+  transform: translateY(-5%);
+}
+.step {
+  transition: all ease 600ms;
+}
+.avatar:hover {
+  transform: translateX(5%);
+}
+.avatar {
+  transition: all ease 600ms;
+}
+</style>
