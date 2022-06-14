@@ -1,5 +1,5 @@
 <template>
-  <div class="tw-pt-24">
+  <div class="tw-pt-24 tw-pb-32">
     <div class="tw-text-center">
       <div class="">
         Hear it from our students

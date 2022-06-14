@@ -10,6 +10,7 @@
   <div class="tw-bg-students-section tw-h-full">
     <students-section></students-section>
   </div>
+  <footer-section></footer-section>
 </template>
 
 <script>
@@ -21,6 +22,7 @@ import GetStartedSection from 'components/landing/GetStartetSection.vue'
 import ContentSection from 'components/landing/ContentSection.vue'
 import AnalyticsSection from 'components/landing/AnalyticsSection.vue'
 import StudentsSection from 'components/landing/StudentsSection.vue'
+import FooterSection from 'components/landing/FooterSection.vue'
 
 export default defineComponent({
   name: "LandingPage",
@@ -31,7 +33,8 @@ export default defineComponent({
     GetStartedSection,
     ContentSection,
     AnalyticsSection,
-    StudentsSection
+    StudentsSection,
+    FooterSection
   },
   setup() {
     
