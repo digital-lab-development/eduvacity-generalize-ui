@@ -11,11 +11,11 @@
         system which brings fun and curiosity while learning.
       </div>
       <div class="tw-flex tw-justify-center tw-mt-12">
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg tw-w-110 tw-h-72 tw-mx-3">
-          <div class="tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-h-72 tw-mx-1 lg:tw-mx-3">
+          <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Programming school
           </div>
-          <div class="tw-px-5">
+          <div class="tw-px-5 tw-text-xs lg:tw-text-sm">
             The School of product teaches how to create the products of tomorrow. It’s an extensive, 
             immersive program that provides you with the skills necessary to be a great product manager, 
             designer or product designer. It will all courses of deferent type and show you what makes a 
@@ -30,11 +30,11 @@
             </q-btn>
           </div>
         </div>
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg tw-w-110 tw-h-72 tw-mx-3">
-          <div class="tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-h-72 tw-mx-1 lg:tw-mx-3">
+          <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Design school
           </div>
-          <div class="tw-px-5">
+          <div class="tw-px-5 tw-text-xs lg:tw-text-sm">
             The design school is set to provides an opportunity for students to learn about design and 
             the different facets of it. Our students are able to learn about the different design skills 
             and how they can be applied to other fields such as architecture or engineering.our Design schools 
@@ -47,11 +47,11 @@
         </div>
       </div>
       <div class="tw-flex tw-justify-center tw-mt-5">
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg tw-w-110 tw-h-72 tw-mx-3">
-          <div class="tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-h-72 tw-mx-1 lg:tw-mx-3">
+          <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Product school
           </div>
-          <div class="tw-px-5">
+          <div class="tw-px-5 tw-text-xs lg:tw-text-sm">
             The School of product teaches how to create the products of tomorrow. It’s an extensive, 
             immersive program that provides you with the skills necessary to be a great product manager, 
             designer or product designer. It will all courses of deferent type and show you what makes a 
@@ -66,11 +66,11 @@
             </q-btn>
           </div>
         </div>
-        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg tw-w-110 tw-h-72 tw-mx-3">
-          <div class="tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
+        <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-h-72 tw-mx-1 lg:tw-mx-3">
+          <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
             Business school
           </div>
-          <div class="tw-px-5">
+          <div class="tw-px-5 tw-text-xs lg:tw-text-sm">
             The Business school offers a wide range of business & administration. These school is set 
             with quality business courses that have evolved to adapt to the changing needs of the business 
             world. Our goal is to prepare our students for careers in the business world.This school will 
