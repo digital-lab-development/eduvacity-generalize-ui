@@ -1,6 +1,6 @@
 <template>
   <div class="tw-flex tw-justify-center">
-    <div class="xl:tw-mt-32 tw-pb-20 lg:tw-pb-0 tw-mt-20">
+    <div class="xl:tw-mt-32 tw-pb-20 lg:tw-pb-0 sm:tw-mt-20">
       <div class="tw-flex tw-flex-wrap tw-justify-center sm:tw-flex-nowrap md:tw-justify-between xl:tw-justify-center">
         <div data-aos="fade-right" class="tw-pt-12 sm:tw-ml-2 md:-tw-ml-6 xl:-tw-ml-0 xl:tw-mr-36">
           <div class="tw-text-xl lg:tw-text-3xl lg:tw-mr-28 xl:tw-mr-0 xl:tw-text-4xl tw-font-extrabold tw-text-primaryColor">
