@@ -78,7 +78,7 @@
             </div>
             <div class="tw-mx-1">
               <q-img
-                class="tw-w-10 sm:tw-w-16 xl:tw-w-28 hover:tw-animate-spin"
+                class="tw-w-10 sm:tw-w-16 xl:tw-w-28 tw-animate-spin"
                 src="~assets/img/landing/logo.png"
               />
             </div>
