@@ -8,11 +8,11 @@
         />
       </div>
       <div data-aos="fade-left" class="sm:tw-pt-5 tw-px-5 sm:tw-px-0 tw-pb-10 sm:tw-pb-0 lg:tw-pt-16 sm:tw-border-l-2 tw-border-white sm:tw-pl-12">
-        <div class="tw-text-xl sm:tw-text-2xl lg:tw-text-4xl tw-font-extrabold tw-text-white">
+        <div class="tw-text-xl sm:tw-text-2xl xl:tw-text-4xl tw-font-extrabold tw-text-white">
           Personalized training <br>
           and content
         </div>
-        <div class="tw-pt-4 lg:tw-pt-8 tw-text-white">
+        <div class="tw-pt-4 xl:tw-pt-8 tw-text-white">
           Our content approach gives curisty and help set strengths, and interests in what <br class="tw-hidden lg:tw-block">
           you are learning, this helps us in highlighting your abilities rather than iluminating <br class="tw-hidden lg:tw-block">
           your disabilties. navigating through the learning phase is challanging we provide <br class="tw-hidden lg:tw-block">

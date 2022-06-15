@@ -34,7 +34,7 @@
               />
             </q-toolbar-title>
 
-            <div class="lg:tw-flex tw-justify-center tw-w-1/2 tw-hidden">
+            <div class="lg:tw-flex tw-justify-center tw-w-1/2 md:tw-w-120 xl:tw-w-1/2 tw-hidden">
               <q-btn-dropdown label="Schools" class="tw-text-base tw-w-36 tw-font-semibold" flat no-caps color="black">
                 <q-list>
                   <q-item clickable v-close-popup @click="onItemClick">

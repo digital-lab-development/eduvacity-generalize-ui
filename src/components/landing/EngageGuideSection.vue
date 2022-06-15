@@ -1,9 +1,9 @@
 <template>
   <div class="tw-bg-gradient-to-b tw-from-pinkBGColor tw-to-white">
-    <div data-aos="fade-up" class="tw-pt-12 sm:tw-pt-24 tw-text-center lg:tw-text-left lg:tw-pl-24 tw-text-xl sm:tw-text-3xl tw-text-primaryColor tw-font-extrabold">
+    <div data-aos="fade-up" class="tw-pt-12 sm:tw-pt-24 tw-text-center xl:tw-text-left xl:tw-pl-24 tw-text-xl sm:tw-text-3xl tw-text-primaryColor tw-font-extrabold">
       Get engage while learning
     </div>
-    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mx-4 lg:tw-mx-0">
+    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mx-4 xl:tw-mx-0">
       <div data-aos="fade-right" class="tw-flex tw-mt-5 sm:tw-mt-14 tw-w-120">
         <div class="tw-pr-2 tw-pt-0.5">
           <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">

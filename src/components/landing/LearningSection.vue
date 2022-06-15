@@ -4,7 +4,7 @@
       <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center sm:tw-justify-start">
         <div data-aos="fade-right" class="tw-mt-6 sm:tw-mt-0">
           <q-img
-            class="tw-w-96 tw-rounded-lg sm:tw-rounded-none lg:tw-w-120 tw-h-full tw-object-cover"
+            class="tw-w-96 tw-rounded-lg sm:tw-rounded-none lg:tw-w-110 xl:tw-w-120 tw-h-full tw-object-cover"
             src="~assets/img/landing/learning.png"
           />
         </div>
