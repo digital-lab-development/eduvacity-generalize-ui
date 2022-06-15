@@ -2,7 +2,7 @@
   <div class="tw-flex tw-justify-center">
     <div class="xl:tw-mt-32 tw-pb-20 lg:tw-pb-0 sm:tw-mt-20">
       <div class="tw-flex tw-flex-wrap tw-justify-center sm:tw-flex-nowrap md:tw-justify-between xl:tw-justify-center">
-        <div data-aos="fade-right" class="tw-pt-12 sm:tw-ml-2 md:-tw-ml-6 xl:-tw-ml-0 xl:tw-mr-36">
+        <div data-aos="fade-right" class="tw-pt-12 sm:tw-ml-2 md:-tw-ml-6 xl:-tw-ml-0 xl:tw-mr-52">
           <div class="tw-text-xl lg:tw-text-3xl lg:tw-mr-28 xl:tw-mr-0 xl:tw-text-4xl tw-font-extrabold tw-text-primaryColor">
             <div class="sm:tw-pt-2">
               Producing High-in-Demand
@@ -30,7 +30,7 @@
             </div>
           </div>
         </div>
-        <div data-aos="fade-left" class="tw-border-2 lg:tw-mt-12 xl:tw-mt-0 tw-border-white tw-w-60 tw-h-60 sm:tw-w-72 sm:tw-h-72 md:tw-w-72 md:tw-h-72 xl:tw-w-100 xl:tw-h-100 tw-rounded-full md:tw-mr-12">
+        <div data-aos="fade-left" class="tw-border-2 lg:tw-mt-12 xl:tw-mt-0 tw-border-white tw-w-60 tw-h-60 sm:tw-w-72 sm:tw-h-72 md:tw-w-72 md:tw-h-72 xl:tw-w-100 xl:tw-h-100 tw-rounded-full md:tw-mr-12 xl:tw-mr-20">
           <div class="tw-flex tw-justify-start tw-mt-3 xl:tw-mt-5">
             <div class="tw-border-2 tw-border-white tw-w-36 tw-h-16 sm:tw-w-44 sm:tw-h-20 xl:tw-w-64 xl:tw-h-28 step tw-rounded-2xl">
               <div class="tw-flex">
@@ -78,7 +78,7 @@
             </div>
             <div class="tw-mx-1">
               <q-img
-                class="tw-w-10 sm:tw-w-16 xl:tw-w-28 tw-animate-spin"
+                class="tw-w-10 sm:tw-w-16 xl:tw-w-28 tw-animate-spin-slow"
                 src="~assets/img/landing/logo.png"
               />
             </div>

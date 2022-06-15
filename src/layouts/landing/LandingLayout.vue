@@ -27,7 +27,7 @@
               </svg>
             </q-btn>
 
-            <q-toolbar-title class="lg:-tw-ml-56 tw-hidden lg:tw-block">
+            <q-toolbar-title class="lg:-tw-ml-56 xl:-tw-ml-80 tw-hidden lg:tw-block">
               <q-img
                 class="tw-w-32"
                 src="~assets/img/landing/eduvacity.png"
