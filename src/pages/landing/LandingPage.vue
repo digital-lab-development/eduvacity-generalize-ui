@@ -1,16 +1,18 @@
 <template>
-  <div class="tw-bg-small-jumbotron-section tw-bg-no-repeat lg:tw-bg-jumbotron-section lg:tw-h-screen">
-    <talents-section></talents-section>
+  <div class="body">
+    <div class="tw-bg-small-jumbotron-section tw-bg-no-repeat lg:tw-bg-jumbotron-section lg:tw-h-screen">
+      <talents-section></talents-section>
+    </div>
+    <learning-section></learning-section>
+    <engage-guide-section></engage-guide-section>
+    <get-started-section></get-started-section>
+    <content-section></content-section>
+    <analytics-section></analytics-section>
+    <div class="tw-bg-students-section tw-h-full">
+      <students-section></students-section>
+    </div>
+    <footer-section></footer-section>
   </div>
-  <learning-section></learning-section>
-  <engage-guide-section></engage-guide-section>
-  <get-started-section></get-started-section>
-  <content-section></content-section>
-  <analytics-section></analytics-section>
-  <div class="tw-bg-students-section tw-h-full">
-    <students-section></students-section>
-  </div>
-  <footer-section></footer-section>
 </template>
 
 <script>
@@ -41,3 +43,9 @@ export default defineComponent({
   },
 })
 </script>
+
+<style scoped>
+.body {
+  scroll-behavior: smooth;
+}
+</style>

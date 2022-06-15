@@ -6,7 +6,7 @@
         skills, and experience in  industry. We strive to find the Gaps in 
         expertise and proficiency.
       </div>
-      <div class="tw-mt-4 sm:tw-mt-0 tw-w-36 sm:tw-w-32 tw-text-left tw-pl-6">
+      <div class="tw-mt-4 sm:tw-mt-0 tw-w-36 sm:tw-w-28 lg:tw-w-36 tw-text-left tw-pl-6">
         <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Our Programs
         </div>
@@ -23,7 +23,7 @@
           Digital Marketing
         </div>
       </div>
-      <div class="tw-mt-4 sm:tw-mt-0 tw-w-36 sm:tw-w-32 tw-text-left tw-pl-6">
+      <div class="tw-mt-4 sm:tw-mt-0 tw-w-36 sm:tw-w-28 lg:tw-w-36 tw-text-left tw-pl-6">
         <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Company
         </div>
@@ -40,7 +40,7 @@
           Affiliate
         </div>
       </div>
-      <div class="tw-mt-8 sm:tw-mt-0 tw-w-36 sm:tw-w-32 tw-text-left tw-pl-6">
+      <div class="tw-mt-8 sm:tw-mt-0 tw-w-36 sm:tw-w-28 lg:tw-w-36 tw-text-left tw-pl-6">
         <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Support
         </div>
@@ -54,7 +54,7 @@
           Policy
         </div>
       </div>
-      <div class="tw-mt-8 sm:tw-mt-0 tw-w-36 sm:tw-w-32 tw-text-left tw-pl-6">
+      <div class="tw-mt-8 sm:tw-mt-0 tw-w-36 sm:tw-w-28 lg:tw-w-36 tw-text-left tw-pl-6">
         <div class="tw-text-sm lg:tw-text-base tw-font-semibold">
           Support
         </div>

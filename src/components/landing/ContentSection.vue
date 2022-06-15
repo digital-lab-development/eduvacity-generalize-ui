@@ -1,13 +1,13 @@
 <template>
   <div class="tw-mt-44">
-    <div class="tw-flex tw-flex-wrap tw-justify-center bg-accent sm:tw-h-64 lg:tw-h-80">
-      <div class="">
+    <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center bg-accent sm:tw-h-64 lg:tw-h-80">
+      <div data-aos="fade-down" class="">
         <q-img
           class="tw-w-96 lg:tw-w-120 -tw-mt-32 lg:-tw-mt-48 step"
           src="~assets/img/landing/hero.png"
         />
       </div>
-      <div class="sm:tw-pt-5 tw-px-5 sm:tw-px-0 tw-pb-10 sm:tw-pb-0 lg:tw-pt-16 sm:tw-border-l-2 tw-border-white sm:tw-pl-12">
+      <div data-aos="fade-left" class="sm:tw-pt-5 tw-px-5 sm:tw-px-0 tw-pb-10 sm:tw-pb-0 lg:tw-pt-16 sm:tw-border-l-2 tw-border-white sm:tw-pl-12">
         <div class="tw-text-xl sm:tw-text-2xl lg:tw-text-4xl tw-font-extrabold tw-text-white">
           Personalized training <br>
           and content

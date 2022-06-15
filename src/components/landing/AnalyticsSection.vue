@@ -1,8 +1,8 @@
 <template>
   <div class="tw-mt-32">
     <div class="tw-flex tw-justify-center sm:tw-mx-44">
-      <div class="lg:tw-mr-44">
-        <div class="tw-flex tw-justify-center">
+      <div data-aos="fade-right" class="lg:tw-mr-44">
+        <div class="tw-flex tw-justify-center sm:tw-justify-start">
           <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-28 tw-h-28 sm:tw-w-32 sm:tw-h-32">
             <div class="tw-pt-9 tw-text-base">
               Students
@@ -28,7 +28,7 @@
             </div>
           </div>
         </div>
-        <div class="tw-flex tw-justify-center tw-mt-4">
+        <div class="tw-flex tw-justify-center sm:tw-justify-start tw-mt-4">
           <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-28 tw-h-28 sm:tw-w-32 sm:tw-h-32">
             <div class="tw-pt-9 tw-text-base">
               Languages
@@ -45,7 +45,7 @@
               2
             </div>
           </div>
-          <div class="">
+          <div class="sm:tw-hidden">
             <q-img
               class="tw-w-28 tw-ml-4 hover:tw-w-40 tw-cursor-pointer"
               src="~assets/img/landing/logo2.png"
@@ -60,7 +60,7 @@
           <q-btn color="accent" label="Get started" no-caps unelevated class="tw-w-44 tw-h-14" @click="onClick" />
         </div>
       </div>
-      <div class="tw-mt-20 tw-hidden sm:tw-block tw-ml-36">
+      <div data-aos="fade-left" class="tw-mt-20 tw-hidden sm:tw-block tw-ml-36">
         <q-img
           class="tw-w-36 hover:tw-w-40 tw-cursor-pointer"
           src="~assets/img/landing/logo2.png"
