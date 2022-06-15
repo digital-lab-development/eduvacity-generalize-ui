@@ -4,7 +4,7 @@
       <div class="tw-flex tw-flex-wrap tw-justify-center sm:tw-flex-nowrap md:tw-justify-between xl:tw-justify-center">
         <div data-aos="fade-right" class="tw-pt-12 sm:tw-ml-2 md:-tw-ml-6 xl:-tw-ml-0 xl:tw-mr-36">
           <div class="tw-text-xl lg:tw-text-3xl lg:tw-mr-28 xl:tw-mr-0 xl:tw-text-4xl tw-font-extrabold tw-text-primaryColor">
-            <div class="tw-pt-2">
+            <div class="sm:tw-pt-2">
               Producing High-in-Demand
             </div>
             <div class="tw-pt-2">
