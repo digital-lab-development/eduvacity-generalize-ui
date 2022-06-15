@@ -1,5 +1,5 @@
 <template>
-  <div class="tw-mt-12 sm:tw-mt-24 row tw-justify-center">
+  <div class="tw-mt-24 row tw-justify-center">
     <div class="">
       <div data-aos="fade-up" class="tw-text-xl sm:tw-text-3xl tw-text-center tw-text-primaryColor tw-font-extrabold">
         Become a highly in demand talent
