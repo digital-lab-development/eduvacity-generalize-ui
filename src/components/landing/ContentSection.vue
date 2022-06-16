@@ -7,7 +7,7 @@
           src="~assets/img/landing/hero.png"
         />
       </div>
-      <div data-aos="fade-left" class="sm:tw-pt-5 tw-px-5 sm:tw-px-0 tw-pb-10 sm:tw-pb-0 lg:tw-pt-16 sm:tw-border-l-2 tw-border-white sm:tw-pl-12">
+      <div data-aos="fade-up" class="sm:tw-pt-5 tw-px-5 sm:tw-px-0 tw-pb-10 sm:tw-pb-0 lg:tw-pt-16 sm:tw-border-l-2 tw-border-white sm:tw-pl-12">
         <div class="tw-text-xl sm:tw-text-2xl xl:tw-text-4xl tw-font-extrabold tw-text-white">
           Personalized training <br>
           and content

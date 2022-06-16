@@ -1,7 +1,7 @@
 <template>
   <div class="tw-mt-32">
     <div class="tw-flex tw-justify-center sm:tw-mx-44">
-      <div data-aos="fade-right" class="lg:tw-mr-44">
+      <div data-aos="fade-down" class="lg:tw-mr-44">
         <div class="tw-flex tw-justify-center sm:tw-justify-start">
           <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-28 tw-h-28 sm:tw-w-32 sm:tw-h-32">
             <div class="tw-pt-9 tw-text-base">
@@ -60,7 +60,7 @@
           <q-btn color="accent" label="Get started" no-caps unelevated class="tw-w-44 tw-h-14" @click="onClick" />
         </div>
       </div>
-      <div data-aos="fade-left" class="tw-mt-20 tw-hidden sm:tw-block tw-ml-36">
+      <div data-aos="fade-up" class="tw-mt-20 tw-hidden sm:tw-block tw-ml-36">
         <q-img
           class="tw-w-36 hover:tw-w-40 tw-cursor-pointer"
           src="~assets/img/landing/logo2.png"
