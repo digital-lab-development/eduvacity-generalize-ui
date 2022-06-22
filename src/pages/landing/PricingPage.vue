@@ -1,14 +1,14 @@
 <template>
-  <div class="row tw-justify-center tw-bg-partner-section tw-h-full">
-    <div class="col-8">
-      <div class="tw-ml-4 tw-pt-20">
+  <div class="row tw-justify-center tw-bg-partner-section">
+    <div class="col-sm-11 col-lg-8">
+      <div class="tw-text-center tw-pt-20">
         <div class="tw-text-2xl tw-font-extrabold">
           Flexible payment, <br>
           Price can't stop you from learning.
         </div>
       </div>
-      <div class="tw-flex tw-justify-start tw-mt-14">
-        <div :class="selected == 'onetime' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-4 step hover:tw-border-pink-500" @click="oneTimeDiv">
+      <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mt-14">
+        <div :class="selected == 'onetime' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-1 lg:tw-mx-4 step hover:tw-border-pink-500 tw-mt-3 sm:tw-mt-0" @click="oneTimeDiv">
           <div class="tw-pt-6 tw-font-semibold">
             One time payment
           </div>
@@ -19,7 +19,7 @@
             This payment is not renewed. Payment can be made with credit card or bank transfer.
           </div>
         </div>
-        <div :class="selected == 'monthly' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-4 step hover:tw-border-pink-500" @click="monthlyDiv">
+        <div :class="selected == 'monthly' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-1 lg:tw-mx-4 step hover:tw-border-pink-500 tw-mt-3 sm:tw-mt-0" @click="monthlyDiv">
           <div class="tw-pt-6 tw-font-semibold">
             Monthly payment
           </div>
@@ -31,7 +31,7 @@
             Payment can be made with credit card or bank transfer.
           </div>
         </div>
-        <div :class="selected == 'perterm' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-4 step hover:tw-border-pink-500" @click="pertermDiv">
+        <div :class="selected == 'perterm' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-1 lg:tw-mx-4 step hover:tw-border-pink-500 tw-mt-3 sm:tw-mt-0" @click="pertermDiv">
           <div class="tw-pt-6 tw-font-semibold">
             Per term payment
           </div>
@@ -43,8 +43,8 @@
           </div>
         </div>
       </div>
-      <div class="tw-flex tw-justify-start tw-mt-10">
-        <div :class="selected == 'weekly' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-4 step hover:tw-border-pink-500" @click="weeklyDiv">
+      <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center sm:tw-mt-4 lg:tw-mt-10">
+        <div :class="selected == 'weekly' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-1 lg:tw-mx-4 step hover:tw-border-pink-500 tw-mt-3 sm:tw-mt-0" @click="weeklyDiv">
           <div class="tw-pt-6 tw-font-semibold">
             Weekly payment
           </div>
@@ -55,7 +55,7 @@
             This payment plan is renewd in a weekly basis and you will pay same price each work through out your leaning phases till you finished
           </div>
         </div>
-        <div :class="selected == 'daily' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-4 step hover:tw-border-pink-500" @click="dailyDiv">
+        <div :class="selected == 'daily' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-1 lg:tw-mx-4 step hover:tw-border-pink-500 tw-mt-3 sm:tw-mt-0" @click="dailyDiv">
           <div class="tw-pt-6 tw-font-semibold">
             Daily payment
           </div>
@@ -66,6 +66,7 @@
             The daily plan is a life changing plan if you cant pay for any above you can secure you learning with the daily plan and it will be paid each day till you.
           </div>
         </div>
+        <div class="tw-w-64 tw-h-56 tw-px-4 tw-mx-1 lg:tw-mx-4 tw-hidden sm:tw-block"></div>
       </div>
       <q-card-actions class="tw-mr-12 tw-my-16" align="right">
         <q-btn flat no-caps color="accent" class="tw-font-semibold tw-w-32 tw-rounded-lg tw-h-12" label="Clear Selected" @click="selected = '' " />
@@ -73,13 +74,18 @@
       </q-card-actions>
     </div>
   </div>
+  <footer-section />
 </template>
 
 <script>
 import { defineComponent, ref } from 'vue'
+import FooterSection from 'components/landing/FooterSection.vue'
 
 export default defineComponent({
   name: "PricingPage",
+  components: {
+    FooterSection
+  },
 
   setup() {
     const selected = ref('')
