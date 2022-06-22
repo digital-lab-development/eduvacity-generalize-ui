@@ -46,7 +46,7 @@
               </q-btn-dropdown>
               <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Why choose us" no-caps flat @click="onClick" />
               <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Partnerships" no-caps flat @click="onClick" />
-              <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Pricing" no-caps flat @click="onClick" />
+              <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Pricing" no-caps flat @click="onClick" :to="{ name: 'pricing' }" />
             </div>
             
             <div class="tw-text-base tw-w-44 lg:tw-w-56 tw-text-center tw-hidden lg:tw-block">
@@ -86,7 +86,7 @@
               </q-item>
             </a>
             <a href="">
-              <q-item clickable v-ripple @click="leftDrawerOpen = false">
+              <q-item clickable v-ripple @click="leftDrawerOpen = false" :to="{ name: 'pricing' }">
                 <q-item-section class="tw-text-base tw-text-primaryColor tw-font-semibold">Pricing</q-item-section>
               </q-item>
             </a>
