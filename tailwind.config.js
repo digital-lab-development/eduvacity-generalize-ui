@@ -26,6 +26,8 @@ module.exports = {
         'students-section': "url('src/assets/img/landing/sprite3.png')",
         'join-section': "url('src/assets/img/landing/sprite4.png')",
         'about-section-first': "url('src/assets/img/landing/bgimage-one.png')",
+        'small-about-section-first': "url('src/assets/img/landing/small-bgimage-one.png')",
+        'small-about-section-second': "url('src/assets/img/landing/small-bgimage-two.png')",
         'about-section-second': "url('src/assets/img/landing/bgimage-two.png')",
       },
       animation: {
