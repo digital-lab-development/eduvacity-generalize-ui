@@ -5,12 +5,18 @@ const routes = [
     component: () => import('layouts/landing/LandingLayout.vue'),
     children: [
       { 
-        path: '', component: () => import('pages/landing/LandingPage.vue') 
+        path: '', 
+        component: () => import('pages/landing/LandingPage.vue') 
       },
       { 
         path: '/about-us', 
         name: 'about-us',
         component: () => import('pages/landing/AboutPage.vue') 
+      },
+      { 
+        path: '/our-pricing', 
+        name: 'pricing',
+        component: () => import('pages/landing/PricingPage.vue') 
       },
     ]
   },

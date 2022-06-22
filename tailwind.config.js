@@ -25,6 +25,7 @@ module.exports = {
         'learning-section': "url('src/assets/img/landing/sprite2.png')",
         'students-section': "url('src/assets/img/landing/sprite3.png')",
         'join-section': "url('src/assets/img/landing/sprite4.png')",
+        'partner-section': "url('src/assets/img/landing/sprite5.png')",
         'about-section-first': "url('src/assets/img/landing/bgimage-one.png')",
         'small-about-section-first': "url('src/assets/img/landing/small-bgimage-one.png')",
         'small-about-section-second': "url('src/assets/img/landing/small-bgimage-two.png')",

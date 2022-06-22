@@ -28,7 +28,7 @@
           Company
         </div>
         <div class="tw-pt-5 lg:tw-text-sm tw-text-xs">
-          About us
+          <a href="/#/about-us">About us</a>
         </div>
         <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Partnerships
