@@ -5,10 +5,12 @@
         <div class="lg:tw-bg-gradient-to-l tw-from-lightPink tw-to-white tw-pt-4">
           <q-toolbar class="tw-w-flex tw-justify-center">
             <div class="tw-text-base lg:tw-hidden">
-              <q-img
-                class="tw-w-28"
-                src="~assets/img/landing/eduvacity.png"
-              />
+              <a href="/">
+                <q-img
+                  class="tw-w-28"
+                  src="~assets/img/landing/eduvacity.png"
+                />
+              </a>
             </div>
             <q-space />
             <q-btn
@@ -28,10 +30,12 @@
             </q-btn>
 
             <q-toolbar-title class="lg:-tw-ml-56 xl:-tw-ml-80 tw-hidden lg:tw-block">
-              <q-img
-                class="tw-w-32"
-                src="~assets/img/landing/eduvacity.png"
-              />
+              <a href="/">
+                <q-img
+                  class="tw-w-32"
+                  src="~assets/img/landing/eduvacity.png"
+                />
+              </a>
             </q-toolbar-title>
 
             <div class="lg:tw-flex tw-justify-center tw-w-1/2 md:tw-w-120 xl:tw-w-1/2 tw-hidden">
