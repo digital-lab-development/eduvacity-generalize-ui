@@ -50,7 +50,7 @@
             </div>
             
             <div class="tw-text-base tw-w-44 lg:tw-w-56 tw-text-center tw-hidden lg:tw-block">
-              <q-btn color="accent" label="Apply Now" no-caps unelevated class="tw-w-32 tw-py-2 tw-font-semibold" />
+              <q-btn color="accent" label="Apply Now" no-caps unelevated class="tw-w-32 tw-py-2 tw-font-semibold" :to="{ name: 'sign-up' }" />
             </div>
           </q-toolbar>
         </div>
@@ -92,7 +92,7 @@
             </a>
           </q-list>
           <q-card-actions @click="leftDrawerOpen = false" align="center">
-            <q-btn no-caps unelevated color="accent" class="tw-w-56 tw-h-12 tw-font-semibold" label="Apply Now" />
+            <q-btn no-caps unelevated color="accent" class="tw-w-56 tw-h-12 tw-font-semibold" label="Apply Now" :to="{ name: 'sign-up' }" />
           </q-card-actions>
         </q-drawer>
 

@@ -31,7 +31,7 @@
           <a href="/#/about-us">About us</a>
         </div>
         <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
-          Partnerships
+          <a href="/#/partnership">Partnerships</a>
         </div>
         <div class="tw-pt-3 lg:tw-text-sm tw-text-xs">
           Trainings
