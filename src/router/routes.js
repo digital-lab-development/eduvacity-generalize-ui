@@ -18,6 +18,11 @@ const routes = [
         name: 'pricing',
         component: () => import('pages/landing/PricingPage.vue') 
       },
+      { 
+        path: '/partnership', 
+        name: 'partnership',
+        component: () => import('pages/landing/PartnershipPage.vue') 
+      },
     ]
   },
 

@@ -52,7 +52,7 @@
             $4
           </div>
           <div :class="selected == 'weekly' ? 'tw-text-white' : 'tw-text-gray-600' " class="tw-text-xs tw-pt-4">
-            This payment plan is renewd in a weekly basis and you will pay same price each work through out your leaning phases till you finished
+            This payment plan is renewed in a weekly basis and you will pay same price each work through out your leaning phases till you finished
           </div>
         </div>
         <div :class="selected == 'daily' ? 'tw-bg-primaryColor tw-border tw-border-pink-500 tw-text-white' : 'tw-bg-white tw-border-gray-400' " class="tw-w-64 tw-h-56 tw-border-2 tw-px-4 tw-mx-1 lg:tw-mx-4 step hover:tw-border-pink-500 tw-mt-3 sm:tw-mt-0" @click="dailyDiv">
@@ -69,7 +69,6 @@
         <div class="tw-w-64 tw-h-56 tw-px-4 tw-mx-1 lg:tw-mx-4 tw-hidden sm:tw-block"></div>
       </div>
       <q-card-actions class="tw-mr-12 tw-my-16" align="right">
-        <q-btn flat no-caps color="accent" class="tw-font-semibold tw-w-32 tw-rounded-lg tw-h-12" label="Clear Selected" @click="selected = '' " />
         <q-btn no-caps unelevated color="accent" class="tw-w-32 tw-font-semibold tw-rounded-lg tw-h-12" label="Next" />
       </q-card-actions>
     </div>

@@ -45,7 +45,7 @@
                 </q-list>
               </q-btn-dropdown>
               <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Why choose us" no-caps flat @click="onClick" />
-              <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Partnerships" no-caps flat @click="onClick" />
+              <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Partnerships" no-caps flat @click="onClick" :to="{ name: 'partnership' }" />
               <q-btn color="black" class="tw-w-36 tw-font-semibold" label="Pricing" no-caps flat @click="onClick" :to="{ name: 'pricing' }" />
             </div>
             
@@ -81,7 +81,7 @@
               </q-item>
             </a>
             <a href="">
-              <q-item clickable v-ripple @click="leftDrawerOpen = false">
+              <q-item clickable v-ripple @click="leftDrawerOpen = false" :to="{ name: 'partnership' }">
                 <q-item-section class="tw-text-base tw-text-primaryColor tw-font-semibold">Partnerships</q-item-section>
               </q-item>
             </a>
