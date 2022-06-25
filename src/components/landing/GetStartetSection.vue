@@ -17,11 +17,12 @@
               Programming school
             </div>
             <div class="tw-px-5 tw-text-xs lg:tw-text-sm">
-              The School of product teaches how to create the products of tomorrow. It’s an extensive, 
-              immersive program that provides you with the skills necessary to be a great product manager, 
-              designer or product designer. It will all courses of deferent type and show you what makes a 
-              good product, what are some examples of good products and why they are good, and how you can 
-              become a successful product person through an extensive learning process.
+              The school of programming helps you in getting extensional knowledge in 
+              the tech industry, we help you to build the gap to stand out with world-class 
+              talents. We allow students to have agile learning and practicing methods whether 
+              you are new to programming or have little experience we will help you with an 
+              impactful knowledge focusing on IOS, Android, Java, Javascript, Python, Front End, 
+              Back End and Full Stack Development. 
             </div>
             <div class="tw-mt-2 tw-mx-1">
               <q-btn flat unelevated no-caps class="tw-font-semibold viewButton" color="accent" label="View all courses" @click="onClick">
