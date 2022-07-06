@@ -14,8 +14,8 @@
             experience.
           </div>
           <div class="tw-pt-4">
-            Eduvacity helps you understand the world’s needs by crafting a robust <br class="tw-hidden lg:tw-block">
-            learning curriculum that is well crafted and easy to understand, we focus <br class="tw-hidden lg:tw-block">
+            Eduvacity helps by understand the world’s needs, crafting a robust <br class="tw-hidden lg:tw-block">
+            learning curriculum that is well crafted and easy to understand, focusing <br class="tw-hidden lg:tw-block">
             on interactive, and collaborative learning experiences to enhance <br class="tw-hidden lg:tw-block">
             engagement and improve knowledge retention.
           </div>
