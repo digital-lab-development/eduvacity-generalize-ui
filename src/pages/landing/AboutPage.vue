@@ -131,7 +131,7 @@
             </div>
             <div class="tw-mt-4 tw-text-xs tw-h-16">
               we provide efficient learning focusing on giving out information 
-              which lends to offer students the opportunity to be more fully 
+              which lends to offer students the opportunity to be more
               engaged and explore career interests within a short period of time.
             </div>
           </div>
