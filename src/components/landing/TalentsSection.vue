@@ -5,7 +5,7 @@
         <div data-aos="fade-down" class="tw-pt-12 sm:tw-ml-2 md:-tw-ml-6 xl:-tw-ml-0 xl:tw-mr-52">
           <div class="tw-text-xl lg:tw-text-3xl lg:tw-mr-28 xl:tw-mr-0 xl:tw-text-4xl tw-font-extrabold tw-text-primaryColor">
             <div class="sm:tw-pt-2">
-              Producing High-in-Demand
+              Producing High in-Demand
             </div>
             <div class="tw-pt-2">
               World class Talents
@@ -13,7 +13,7 @@
           </div>
           <div class="tw-text-gray-500 tw-font-semibold md:tw-text-xs xl:tw-text-base tw-pt-4">
             Supporting learners in obtaining mastery <br class="xl:tw-hidden"> and proficiency <br class="tw-hidden xl:tw-block">
-            using a flexible learning <br class="xl:tw-hidden"> approach
+            using flexible learning <br class="xl:tw-hidden"> approach
           </div>
           <div class="tw-flex tw-mt-5">
             <div class="tw-mt-4">
