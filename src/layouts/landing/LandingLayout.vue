@@ -44,7 +44,7 @@
                   <q-item clickable v-close-popup @click="onItemClick">
                     <q-item-section>
                       <q-item-label>School of programming</q-item-label>
-                      <q-item-label>School of product</q-item-label>
+                      
                     </q-item-section>
                   </q-item>
                 </q-list>
