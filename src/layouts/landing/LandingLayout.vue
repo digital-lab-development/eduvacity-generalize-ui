@@ -7,7 +7,7 @@
             <div class="tw-text-base lg:tw-hidden">
               <a href="/">
                 <q-img
-                  class="tw-w-28"
+                  class="tw-w-35"
                   src="~assets/img/landing/eduvacity.png"
                 />
               </a>
@@ -43,7 +43,8 @@
                 <q-list>
                   <q-item clickable v-close-popup @click="onItemClick">
                     <q-item-section>
-                      <q-item-label>Photos</q-item-label>
+                      <q-item-label>School of programming</q-item-label>
+                      <q-item-label>School of product</q-item-label>
                     </q-item-section>
                   </q-item>
                 </q-list>
