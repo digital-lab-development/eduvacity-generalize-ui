@@ -7,7 +7,7 @@
             <div class="tw-text-base lg:tw-hidden">
               <a href="/">
                 <q-img
-                  class="tw-w-35"
+                  class="tw-w-29"
                   src="~assets/img/landing/eduvacity.png"
                 />
               </a>
