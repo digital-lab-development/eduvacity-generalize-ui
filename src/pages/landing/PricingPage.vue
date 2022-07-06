@@ -63,15 +63,11 @@
             $0.6
           </div>
           <div :class="selected == 'daily' ? 'tw-text-white' : 'tw-text-gray-600' " class="tw-text-xs tw-pt-4">
-            The daily plan is a life changing plan if you cant pay for any above you can secure you learning with the daily plan and it will be paid each day till you.
+            The daily plan is a life changing plan if you cant pay for any above you can secure you learning with the daily plan and it will be paid each day till you finished.
           </div>
         </div>
         <div class="tw-w-64 tw-h-56 tw-px-4 tw-mx-1 lg:tw-mx-4 tw-hidden sm:tw-block"></div>
       </div>
-      <q-card-actions class="tw-mr-12 tw-my-16" align="right">
-        <q-btn no-caps unelevated color="accent" class="tw-w-32 tw-font-semibold tw-rounded-lg tw-h-12" label="Next" />
-      </q-card-actions>
-    </div>
   </div>
   <footer-section />
 </template>
