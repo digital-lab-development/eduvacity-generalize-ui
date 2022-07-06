@@ -8,7 +8,7 @@
           </div>
           <div class="tw-mr-16 tw-text-xs lg:tw-mr-24 tw-text-white tw-pb-6 sm:tw-pb-0 sm:tw-text-sm tw-pt-3">
             We are a result-oriented team set to provide a more innovative environment 
-            with technical and digital skills across the globe, Our curriculum uses an 
+            with technical, business and soft skills across the globe, Our curriculum uses an 
             agile learning approach perfect for beginners and experienced individuals.
           </div>
         </div>
@@ -21,8 +21,7 @@
           <div class="tw-mr-16 tw-text-xs lg:tw-mr-24 tw-text-white tw-pb-6 sm:tw-pb-0 sm:tw-text-sm tw-pt-3">
             We provide industry relevent careers for the future of work looking at the 
             world today there is more need in celebrate an enthusiastic that thrived by
-            adapting workforce skills and ways of working to the demands of the new economy 
-            people will no longer blame poor
+            adapting workforce skills and ways of working to the demands of the new economy.
           </div>
         </div>
       </div>
@@ -34,7 +33,7 @@
       <div class="tw-flex tw-justify-center tw-mt-5">
         <q-video
           class="tw-w-full tw-mx-4 sm:tw-mx-0 sm:tw-w-2/3 tw-h-100"
-          src="https://www.youtube.com/embed/saqIOkDsibM"
+          src="https://www.youtube.com/watch?v=2ZoI4t0gbe0"
         />
       </div>
     </div>
@@ -52,7 +51,7 @@
                 </div>
                 <div class="tw-ml-3">
                   <div class="tw-text-base tw-font-semibold tw-pt-0.5">
-                    Structure learning
+                    Structured learning
                   </div>
                   <div class="tw-mt-4 tw-text-xs tw-h-16">
                     we provide efficient learning focusing on giving out information 
@@ -107,7 +106,7 @@
                     Certificate
                   </div>
                   <div class="tw-mt-4 tw-text-xs tw-h-16">
-                    Our certificate are from renowned higher institution as a way to 
+                    Our certificate are licensed from renowned university as a way to 
                     boost your credentials and make you stand out in the job market.
                   </div>
                 </div>
@@ -132,7 +131,7 @@
             </div>
             <div class="tw-mt-4 tw-text-xs tw-h-16">
               we provide efficient learning focusing on giving out information 
-              which lends to offers students the opportunity to be more fully 
+              which lends to offer students the opportunity to be more fully 
               engaged and explore career interests within a short period of time.
             </div>
           </div>
