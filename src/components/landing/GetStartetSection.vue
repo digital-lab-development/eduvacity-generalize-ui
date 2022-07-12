@@ -57,9 +57,9 @@
               Product school
             </div>
             <div class="tw-px-5 tw-text-xs lg:tw-text-sm">
-              The School of product teaches how to create the products of tomorrow. It’s an extensive, 
-              immersive program that provides you with the skills necessary to be a great product manager 
-               or product designer. It will show you what makes a 
+              The School of product teaches how to create the products of tomorrow. It’s an extensive,p
+              rogram that provides you with the skills necessary to be a great product manager 
+              or product designer. It will show you what makes a 
               good product, what are some examples of good products and why they are good, and how you can 
               become a successful product person through an extensive learning process .
             </div>
