@@ -33,7 +33,7 @@
       <div class="tw-flex tw-justify-center tw-mt-5">
         <q-video
           class="tw-w-full tw-mx-4 sm:tw-mx-0 sm:tw-w-2/3 tw-h-100"
-          src="https://www.youtube.com/watch?v=M9Bvrtknm_4"
+          src="https://www.youtube.com/watch?v=Dv7gLpW91DM"
         />
       </div>
     </div>
