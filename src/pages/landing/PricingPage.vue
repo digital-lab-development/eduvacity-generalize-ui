@@ -68,6 +68,7 @@
         </div>
         <div class="tw-w-64 tw-h-56 tw-px-4 tw-mx-1 lg:tw-mx-4 tw-hidden sm:tw-block"></div>
       </div>
+    </div>
   </div>
   <footer-section />
 </template>
