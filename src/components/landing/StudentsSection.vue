@@ -13,9 +13,9 @@
         <q-card flat class="tw-mx-4 sm:md:tw-w-64 md:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
           <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
             "I don't know what it is about this school but I am just so happy to be a part of it. 
-            All the teachers and their expertise has helped me grow as a programmer and it is such 
+            the instructors helped me grow as a programmer and it is such 
             an invigorating experience. I never looked back after the first day and now I am exploring 
-            all these new opportunities, thanks to digital lab"
+            all these new opportunities, thanks to eduvacity"
           </div>
           <q-card-actions class="tw-mb-6 tw-mt-3">
             <div class="tw-flex tw-mx-4 avatar">
@@ -27,7 +27,7 @@
               </div>
               <div class="tw-ml-2 lg:tw-ml-4 lg:tw-mt-2">
                 <div class="tw-font-semibold">
-                  Ibrahim Musa Abbah
+                  Usman Isah
                 </div>
                 <div class="tw-text-gray-600">
                   Fullstack developer
@@ -40,7 +40,7 @@
       <div data-aos="flip-up">
         <q-card flat class="tw-mx-4 sm:md:tw-w-64 md:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
           <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
-            "It really saves me time and effort, eduvacity is exactly what iur bussiness has been lacking. 
+            "It really saves me time and effort, eduvacity is exactly what i have been lacking in my career. 
             I could probably go into sales for you"
           </div>
           <q-card-actions class="tw-mb-6 tw-mt-3">
@@ -66,9 +66,9 @@
       <div data-aos="flip-up">
         <q-card flat class="tw-mx-4 sm:md:tw-w-64 md:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
           <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
-            "I enrolled in the Front-end development course and was very impressed with 
+            "I enrolled in the Front-end development course and i was very impressed with 
             the quality of the content. They were very informative videos that I could 
-            always watch as many times as needed to grasp a concept. The tutorials 
+            always watch as many times as needed to grasp a concept. The content 
             provided were easy to follow and I liked how all the steps were laid out 
             for me at-a-glance"
           </div>
@@ -97,10 +97,10 @@
       <div data-aos="flip-up">
         <q-card flat class="tw-mx-4 sm:md:tw-w-64 md:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
           <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
-            Eduvacity been a true lifesaver for me in my programming endeavors. The have the 
-            most incredible talent, and they also teaches me so much about how to succeed in 
+            Eduvacity been a true lifesaver for me in my programming endeavors. They have the 
+            most incredible talents, and they also teaches me so much about how to succeed in 
             this industry. I would recommend eduvacity to anyone and everyone who needs
-            programming assistance.
+            to learn programming.
           </div>
           <q-card-actions class="tw-mb-6 tw-mt-3">
             <div class="tw-flex tw-mx-4 avatar">
@@ -125,7 +125,7 @@
       <div data-aos="flip-up">
         <q-card flat class="tw-mx-4 sm:md:tw-w-64 md:tw-w-72 lg:tw-w-80 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
           <div class="tw-mt-6 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-52">
-            As a learner, one of the most important aspects of a platform is its ability to provide 
+            As a learner, one of the most important aspects of this school is its ability to provide 
             access to great content and resources. I'm always looking for ways to improve my career 
             and eduvacity has been invaluable in this respect. There are so many great talent and self 
             learning videos that are perfect for conveying a point or providing an illustration, plus

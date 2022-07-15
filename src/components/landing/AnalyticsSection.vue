@@ -8,7 +8,7 @@
               Students
             </div>
             <div class="tw-text-2xl tw-font-bold">
-              1M+
+              1000+
             </div>
           </div>
           <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-28 tw-h-28 sm:tw-w-32 sm:tw-h-32">
@@ -16,7 +16,7 @@
               Countries
             </div>
             <div class="tw-text-2xl tw-font-bold">
-              12
+              2
             </div>
           </div>
           <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-28 tw-h-28 sm:tw-w-32 sm:tw-h-32">
@@ -24,7 +24,7 @@
               Communities
             </div>
             <div class="tw-text-2xl tw-font-bold">
-              300
+              100+
             </div>
           </div>
         </div>
@@ -34,7 +34,7 @@
               Languages
             </div>
             <div class="tw-text-2xl tw-font-bold">
-              3
+              2
             </div>
           </div>
           <div class="tw-bg-primaryColor tw-rounded-md tw-text-center tw-mx-2 tw-text-white tw-cursor-pointer hover:tw-w-36 hover:tw-h-36 tw-w-28 tw-h-28 sm:tw-w-32 sm:tw-h-32">
