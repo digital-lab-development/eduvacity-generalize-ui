@@ -1,4 +1,3 @@
-# develop stage
 FROM node:alpine as develop-stage
 WORKDIR /app
 COPY package*.json ./
