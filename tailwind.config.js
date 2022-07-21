@@ -10,7 +10,8 @@ module.exports = {
         'comingsoonColor': '#ebdfeb',
         'studentsBGColor': '#fff8fb',
         'palePinkColor': '#fff3f9',
-        'joinBGColor': '#fff7fb'
+        'joinBGColor': '#fff7fb',
+        'pinkColor': '#e786d7'
       },
       spacing: {
         85: '23rem',
