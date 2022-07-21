@@ -309,17 +309,189 @@
         Review from student <br>
         & success story
       </div>
+      <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mt-5">
+        <div data-aos="flip-up">
+          <q-card flat class="tw-mx-4 sm:md:tw-w-80 md:tw-w-96 lg:tw-w-110 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
+            <div class="tw-flex tw-ml-4">
+              <div class="tw-w-full tw-mt-20">
+                <q-img
+                  class="lg:tw-w-24 tw-w-10 tw-h-10 lg:tw-h-24 tw-rounded-full"
+                  src="~assets/img/landing/temi.png"
+                />
+              </div>
+              <div class="tw-mt-12">
+                <div class="tw-px-4 tw-font-semibold">
+                  Hafsah Umar
+                </div>
+                <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
+                  praesentium dicta voluptas in consequatur placeat natus architecto 
+                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
+                  consectetur adipisci!
+                </div>
+                <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
+                  <div class="tw-font-semibold">
+                    Product desingner
+                  </div>
+                  <div>
+                    <q-rating
+                      v-model="ratingModel"
+                      size="1.5em"
+                      icon="star"
+                      color="black"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </q-card>
+        </div>   
+        <div data-aos="flip-up">
+          <q-card flat class="tw-mx-4 sm:md:tw-w-80 md:tw-w-96 lg:tw-w-110 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
+            <div class="tw-flex tw-ml-4">
+              <div class="tw-w-full tw-mt-20">
+                <q-img
+                  class="lg:tw-w-24 tw-w-10 tw-h-10 lg:tw-h-24 tw-rounded-full"
+                  src="~assets/img/landing/saeed.jpg"
+                />
+              </div>
+              <div class="tw-mt-12">
+                <div class="tw-px-4 tw-font-semibold">
+                  Ibrahim Musa Abbah
+                </div>
+                <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
+                  praesentium dicta voluptas in consequatur placeat natus architecto 
+                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
+                  consectetur adipisci!
+                </div>
+                <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
+                  <div class="tw-font-semibold">
+                    Product desingner
+                  </div>
+                  <div>
+                    <q-rating
+                      v-model="ratingModel"
+                      size="1.5em"
+                      icon="star"
+                      color="black"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </q-card>
+        </div>   
+      </div>
+      <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mt-5">
+        <div data-aos="flip-up">
+          <q-card flat class="tw-mx-4 sm:md:tw-w-80 md:tw-w-96 lg:tw-w-110 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
+            <div class="tw-flex tw-ml-4">
+              <div class="tw-w-full tw-mt-20">
+                <q-img
+                  class="lg:tw-w-24 tw-w-10 tw-h-10 lg:tw-h-24 tw-rounded-full"
+                  src="~assets/img/landing/temi.png"
+                />
+              </div>
+              <div class="tw-mt-12">
+                <div class="tw-px-4 tw-font-semibold">
+                  Hafsah Umar
+                </div>
+                <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
+                  praesentium dicta voluptas in consequatur placeat natus architecto 
+                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
+                  consectetur adipisci!
+                </div>
+                <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
+                  <div class="tw-font-semibold">
+                    Product desingner
+                  </div>
+                  <div>
+                    <q-rating
+                      v-model="ratingModel"
+                      size="1.5em"
+                      icon="star"
+                      color="black"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </q-card>
+        </div>   
+        <div data-aos="flip-up">
+          <q-card flat class="tw-mx-4 sm:md:tw-w-80 md:tw-w-96 lg:tw-w-110 tw-bg-studentsBGColor tw-border-white hover:tw-border-pink-500 tw-border-2 sm:tw-mx-1 lg:tw-mx-3 step tw-mt-4 sm:tw-mt-0">
+            <div class="tw-flex tw-ml-4">
+              <div class="tw-w-full tw-mt-20">
+                <q-img
+                  class="lg:tw-w-24 tw-w-10 tw-h-10 lg:tw-h-24 tw-rounded-full"
+                  src="~assets/img/landing/saeed.jpg"
+                />
+              </div>
+              <div class="tw-mt-12">
+                <div class="tw-px-4 tw-font-semibold">
+                  Ibrahim Musa Abbah
+                </div>
+                <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
+                  praesentium dicta voluptas in consequatur placeat natus architecto 
+                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
+                  consectetur adipisci!
+                </div>
+                <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
+                  <div class="tw-font-semibold">
+                    Product desingner
+                  </div>
+                  <div>
+                    <q-rating
+                      v-model="ratingModel"
+                      size="1.5em"
+                      icon="star"
+                      color="black"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </q-card>
+        </div>   
+      </div>
     </div>
+    <FooterSection class="tw-mt-52" />
   </div>
 </template>
 
 <script>
-import { defineComponent } from 'vue'
+import { defineComponent, ref } from 'vue';
+import FooterSection from 'components/landing/FooterSection.vue'
 
 export default defineComponent({
   name: "ProductPage",
+  components: {
+    FooterSection
+  },
   setup() {
-    
+    const ratingModel = ref(5)
+
+    return {
+      ratingModel
+    }
   },
 })
 </script>
+
+<style scoped>
+.step:hover {
+  transform: translateY(-5%);
+}
+.step {
+  transition: all ease 600ms;
+}
+.avatar:hover {
+  transform: translateX(5%);
+}
+.avatar {
+  transition: all ease 600ms;
+}
+</style>
