@@ -45,7 +45,7 @@
           />
         </div>
         <div class="tw-w-140 tw-bg-pinkBGColor">
-          <div class="tw-text-3xl tw-px-10 tw-pt-10 tw-font-bold">
+          <div data-aos="fade-up" class="tw-text-3xl tw-px-10 tw-pt-10 tw-font-bold">
             Product Design
           </div>
           <div class="tw-px-10 tw-pt-4">
@@ -59,13 +59,13 @@
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
             <div class="tw-flex">
-              <div class="tw-flex">
+              <div data-aos="fade-up" class="tw-flex">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Art, Design and Technology History
                 </div>
               </div>
-              <div class="tw-flex tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Design Prototyping
@@ -75,13 +75,13 @@
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
             <div class="tw-flex">
-              <div class="tw-flex">
+              <div data-aos="fade-up" class="tw-flex">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Desing foundamentals in Figma
                 </div>
               </div>
-              <div class="tw-flex tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Mathematics for Product Desing
@@ -91,13 +91,13 @@
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
             <div class="tw-flex">
-              <div class="tw-flex">
+              <div data-aos="fade-up" class="tw-flex">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Design Thinking
                 </div>
               </div>
-              <div class="tw-flex tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Desing Methods and Creativity
@@ -107,13 +107,13 @@
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
             <div class="tw-flex">
-              <div class="tw-flex">
+              <div data-aos="fade-up" class="tw-flex">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Introduction to Material and Selection
                 </div>
               </div>
-              <div class="tw-flex tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Design by Analogy
@@ -123,13 +123,13 @@
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
             <div class="tw-flex">
-              <div class="tw-flex">
+              <div data-aos="fade-up" class="tw-flex">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   User Research
                 </div>
               </div>
-              <div class="tw-flex tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   UX Documentation & Design Hand off
@@ -139,13 +139,13 @@
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
             <div class="tw-flex">
-              <div class="tw-flex">
+              <div data-aos="fade-up" class="tw-flex">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Building Style Guides and Desing  systems
                 </div>
               </div>
-              <div class="tw-flex tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Persona, information, architecture, customer journey map etc
@@ -155,13 +155,13 @@
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
             <div class="tw-flex">
-              <div class="tw-flex">
+              <div data-aos="fade-up" class="tw-flex">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   User Experience Desing 
                 </div>
               </div>
-              <div class="tw-flex tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Understanding Responsiveness Design
@@ -170,7 +170,7 @@
             </div>
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
-            <div class="tw-flex">
+            <div data-aos="fade-up" class="tw-flex">
               <div class="tw-w-64">
                 <q-btn color="accent" label="Enroll Now" class="tw-h-12 tw-font-semibold tw-w-32" no-caps unelevated @click="onClick" />
               </div>
