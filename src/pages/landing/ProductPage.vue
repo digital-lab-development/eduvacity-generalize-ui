@@ -1,15 +1,15 @@
 <template>
   <div class="tw-mt-5">
     <div class="tw-bg-product-section tw-h-full">
-      <div class="tw-ml-24 tw-flex tw-justify- tw-pt-12">
+      <div class="xl:tw-ml-24 tw-mx-4 md:tw-mx-0 tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-end tw-pt-12">
         <div>
-          <div class="tw-text-white tw-text-3xl">
+          <div class="tw-text-white tw-text-xl md:tw-text-3xl">
             Welcome to 
           </div>
-          <div class="tw-text-5xl tw-text-white tw-pt-3 tw-font-bold">
+          <div class="tw-text-3xl md:tw-text-5xl tw-text-white tw-pt-3 tw-font-bold">
             Product school
           </div>
-          <div class="tw-text-white tw-text-base tw-pt-4 tw-w-1/2">
+          <div class="tw-text-white sm:tw-text-base tw-pt-4 md:tw-w-1/2">
             Lorem ipsum dolor sit amet consectetur adipisicing 
             elit. Eveniet beatae exercitationem commodi illum, 
             totam sapiente perspiciatis inventore voluptatum, quia 
@@ -18,17 +18,21 @@
           <div class="tw-text-white tw-text-base tw-pt-6 tw-font-bold">
             Certificate
           </div>
-          <div class="tw-mt-4 tw-mb-12">
+          <div class="tw-mt-4 md:tw-mb-12">
             <q-img
               class="tw-w-14"
               src="~assets/img/landing/abu.png"
             />
           </div>
         </div>
-        <div class="-tw-mt-12">
+        <div class="sm:-tw-mt-12">
           <q-img
-            class="tw-w-120 tw-h-"
+            class="tw-w-96 tw-hidden sm:tw-block xl:tw-w-120"
             src="~assets/img/landing/designer.png"
+          />
+          <q-img
+            class="tw-w-80 -tw-mr-4 sm:tw-hidden"
+            src="~assets/img/landing/designer2.png"
           />
         </div>
       </div> 
