@@ -220,7 +220,7 @@
       </div>
       <div class="tw-flex tw-justify-center">
         <div class="tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-10">
-          <div class="tw-pt-8">
+          <div class="tw-pt-10">
             <div class="-tw-ml-4">
               <svg class="tw-mx-auto" width="86" height="72" viewBox="0 0 86 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M58.5244 46.3937C58.5244 47.4655 58.939 48.4935 59.6769 49.2513C60.4149 50.0092 61.4158 50.435 62.4594 50.435H68.1159C68.1812 50.435 68.2437 50.4084 68.2898 50.361C68.336 50.3137 68.3619 50.2494 68.3619 50.1824V38.5636C68.3619 38.4966 68.336 38.4324 68.2898 38.385C68.2437 38.3376 68.1812 38.311 68.1159 38.311H59.0163C58.8858 38.311 58.7607 38.3643 58.6685 38.459C58.5762 38.5537 58.5244 38.6822 58.5244 38.8162V46.3937Z" fill="#E786D7"/>
@@ -230,7 +230,7 @@
               </svg>
             </div>
             <div class="tw-text-center">
-              Build real <br> life project
+              Point & Reward
             </div>
           </div>
         </div>
