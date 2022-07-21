@@ -65,12 +65,12 @@
               become a successful product person through an extensive learning process .
             </div>
             <div class="tw-mt-2 tw-mx-1">
-              <!-- <q-btn flat unelevated no-caps class="tw-font-semibold viewButton" color="accent" label="View all courses" @click="onClick">
+              <q-btn flat unelevated no-caps class="tw-font-semibold viewButton" color="accent" label="View all courses" @click="onClick" :to="{ name: 'product-school' }">
                 <svg class="tw-ml-2" width="27" height="16" viewBox="0 0 27 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M0.801977 7.12495H23.6198L18.3701 1.87522L19.6075 0.637806L26.9697 8L19.6075 15.3622L18.3701 14.1248L23.62 8.87495H0.801977V7.12495Z" fill="#1E136B"/>
                 </svg>
-              </q-btn> -->
-              <q-btn flat unelevated no-caps class="tw-font-semibold viewButton tw-bg-comingsoonColor tw-ml-4" color="accent" label="Coming soon" @click="onClick" />
+              </q-btn>
+              <!-- <q-btn flat unelevated no-caps class="tw-font-semibold viewButton tw-bg-comingsoonColor tw-ml-4" color="accent" label="Coming soon" @click="onClick" /> -->
             </div>
           </div>
         </div>
