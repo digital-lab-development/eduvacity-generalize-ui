@@ -213,6 +213,71 @@
         </div>
       </div>
     </div> 
+    <div class="tw-mt-44">
+      <div class="tw-text-2xl tw-text-center tw-font-bold">
+        We provide you the best <br>
+        learning experience
+      </div>
+      <div class="tw-flex tw-justify-center">
+        <div>
+          first
+        </div>
+        <div class="sm:tw-flex tw-justify-center tw-mt-12 tw-hidden">
+          <div class="tw-pr-4 tw-pb-24">
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div></div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div class="tw-text-base tw-font-semibold tw-pt-12">
+                Real time feedback on questions
+              </div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div></div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div class="tw-text-base tw-font-semibold tw-pt-12">
+                Test and assessments
+              </div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div></div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div class="tw-text-base tw-font-semibold tw-pt-12">
+                Internship
+              </div>
+            </div>
+          </div>        
+          <div class="tw-border-l-2 tw-border- tw-px-4">
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div class="tw-text-base tw-font-semibold tw-pt-12">
+                Personlize learning
+              </div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div></div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div class="tw-text-base tw-font-semibold tw-pt-12">
+                Flexible payment
+              </div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div></div>
+            </div>
+            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+              <div class="tw-text-base tw-font-semibold tw-pt-12">
+                Nano degree certificate from universities
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          last
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
