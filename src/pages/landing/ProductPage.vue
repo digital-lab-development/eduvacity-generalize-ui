@@ -52,7 +52,7 @@
           </div>
           <div class="tw-bg-pinkColor tw-w-28 tw-ml-10 tw-mt-4">
             <div class="tw-text-xl tw-text-center tw-py-2 tw-font-bold">
-              OUTLINE
+              $250
             </div>
           </div>
           <div class="tw-flex tw-mx-10 tw-mt-4">
