@@ -49,10 +49,10 @@
           />
         </div>
         <div class="tw-w-full xl:tw-w-140 tw-bg-pinkBGColor">
-          <div data-aos="fade-up" class="tw-text-2xl md:tw-text-3xl xl:tw-px-10 tw-px-4 tw-pt-10 tw-font-bold">
+          <div data-aos="fade-up" class="tw-text-2xl sm:tw-text-center lg:tw-text-left md:tw-text-3xl xl:tw-px-10 tw-px-4 tw-pt-10 tw-font-bold">
             Product Design
           </div>
-          <div data-aos="fade-up" class="xl:tw-px-10 tw-px-4 tw-pt-4">
+          <div data-aos="fade-up" class="xl:tw-px-10 sm:tw-text-center lg:tw-text-left tw-px-4 tw-pt-4">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi, accusamus 
             nostrum officiis quae nihil ratione excepturi fuga ipsa? Distinctio.
           </div>
@@ -69,7 +69,7 @@
                   Art, Design and Technology History
                 </div>
               </div>
-              <div data-aos="fade-up" class="tw-flex tw-mt-4 md:tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-mt-4 sm:tw-mt-0 md:tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Design Prototyping
@@ -85,7 +85,7 @@
                   Desing foundamentals in Figma
                 </div>
               </div>
-              <div data-aos="fade-up" class="tw-flex tw-mt-4 md:tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-mt-4 sm:tw-mt-0 md:tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Mathematics for Product Desing
@@ -101,7 +101,7 @@
                   Design Thinking
                 </div>
               </div>
-              <div data-aos="fade-up" class="tw-flex tw-mt-4 md:tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-mt-4 sm:tw-mt-0 md:tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Desing Methods and Creativity
@@ -117,7 +117,7 @@
                   Introduction to Material and Selection
                 </div>
               </div>
-              <div data-aos="fade-up" class="tw-flex tw-mt-4 md:tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-mt-4 sm:tw-mt-0 md:tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Design by Analogy
@@ -133,7 +133,7 @@
                   User Research
                 </div>
               </div>
-              <div data-aos="fade-up" class="tw-flex tw-mt-4 md:tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-mt-4 sm:tw-mt-0 md:tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   UX Documentation & Design Hand off
@@ -149,7 +149,7 @@
                   Building Style Guides and Desing  systems
                 </div>
               </div>
-              <div data-aos="fade-up" class="tw-flex tw-mt-4 md:tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-mt-4 sm:tw-mt-0 md:tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Persona, information, architecture, customer journey map etc
@@ -165,7 +165,7 @@
                   User Experience Desing 
                 </div>
               </div>
-              <div data-aos="fade-up" class="tw-flex tw-mt-4 md:tw-ml-10">
+              <div data-aos="fade-up" class="tw-flex tw-mt-4 sm:tw-mt-0 md:tw-ml-10">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
                   Understanding Responsiveness Design
@@ -238,7 +238,7 @@
         </div>
       </div>
       <div class="tw-flex tw-justify-center">
-        <div class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-10">
+        <div class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
           <div class="tw-pt-10">
             <div class="-tw-ml-4">
               <svg class="tw-mx-auto" width="86" height="72" viewBox="0 0 86 72" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -253,9 +253,9 @@
             </div>
           </div>
         </div>
-        <div class="tw-flex tw-justify-center md:tw-mt-12">
-          <div class="tw-pr-4 tw-pb-24 tw-w-full">
-            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+        <div class="tw-flex tw-justify-evenly md:tw-mt-12">
+          <div class="tw-pr-4 tw-w-52 tw-pb-24 xl:tw-w-full">
+            <div data-aos="fade-up" class="tw-h-16">
               <div></div>
             </div>
             <div data-aos="fade-up" class="xl:tw-mx-0 tw-h-16">
@@ -263,7 +263,7 @@
                 Real time feedback on questions
               </div>
             </div>
-            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+            <div data-aos="fade-up" class="tw-h-16">
               <div></div>
             </div>
             <div data-aos="fade-up" class="xl:tw-mx-0 tw-h-16">
@@ -271,7 +271,7 @@
                 Test and assessments
               </div>
             </div>
-            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+            <div data-aos="fade-up" class="tw-h-16">
               <div></div>
             </div>
             <div data-aos="fade-up" class="xl:tw-mx-0 tw-h-16">
@@ -280,31 +280,31 @@
               </div>
             </div>
           </div>        
-          <div class="tw-border-l-2 tw-border-gray-200 tw-px-4">
-            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+          <div class="tw-border-l-2 tw-border-gray-200 tw-w-60 xl:tw-w-full tw-pl-4">
+            <div data-aos="fade-up" class="tw-h-16">
               <div class="tw-text-base tw-font-semibold tw-pt-12">
                 Personlize learning
               </div>
             </div>
-            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+            <div data-aos="fade-up" class="tw-h-16">
               <div></div>
             </div>
-            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+            <div data-aos="fade-up" class="tw-h-16">
               <div class="tw-text-base tw-font-semibold tw-pt-12">
                 Flexible payment
               </div>
             </div>
-            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+            <div data-aos="fade-up" class="tw-h-16">
               <div></div>
             </div>
-            <div data-aos="fade-up" class=" tw-mx-5 xl:tw-mx-0 tw-h-16">
+            <div data-aos="fade-up" class="tw-h-16">
               <div class="tw-text-base tw-font-semibold tw-pt-12">
                 Nano degree certificate from universities
               </div>
             </div>
           </div>
         </div>
-        <div class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-10">
+        <div class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
           <div class="tw-pt-12">
             <svg class="tw-mx-auto" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g clip-path="url(#clip0_2069_1423)">
