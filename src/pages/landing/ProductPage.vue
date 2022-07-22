@@ -324,7 +324,7 @@
               </div>
               <div class="tw-mt-12">
                 <div class="tw-px-4 tw-font-semibold">
-                  Ibrahim Musa Abbah
+                  Ibrahim nasir Abbah
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
@@ -334,7 +334,7 @@
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
-                    Product desingner
+                    Product designer
                   </div>
                   <div>
                     <q-rating
