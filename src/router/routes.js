@@ -24,6 +24,11 @@ const routes = [
         component: () => import('pages/landing/PartnershipPage.vue') 
       },
       { 
+        path: '/product-school', 
+        name: 'product-school',
+        component: () => import('pages/landing/ProductPage.vue') 
+      },
+      { 
         path: '/sign-up', 
         name: 'sign-up',
         component: () => import('pages/auth/SignupPage.vue') 
