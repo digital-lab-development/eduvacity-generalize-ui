@@ -172,38 +172,7 @@
               <div class="tw-w-64">
                 <q-btn color="accent" label="Enroll Now" class="tw-h-12 tw-font-semibold tw-w-32" no-caps unelevated @click="onClick" />
               </div>
-              <div class="tw-flex tw-ml-16">
-                <div class="tw-text-center">
-                  <div class="tw-text-xl tw-font-bold">
-                    29
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    days
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    4
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    hrs
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    32
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    mins
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    40
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    sec
-                  </div>
+              
                 </div>
               </div>
             </div>
