@@ -9,11 +9,9 @@
           <div class="tw-text-3xl md:tw-text-5xl tw-text-white tw-pt-3 tw-font-bold">
             Product school
           </div>
-          <div class="tw-text-white sm:tw-text-base tw-pt-4 lg:tw-w-1/2">
-            Lorem ipsum dolor sit amet consectetur adipisicing 
-            elit. Eveniet beatae exercitationem commodi illum, 
-            totam sapiente perspiciatis inventore voluptatum, quia 
-            fuga mollitia soluta expedita eos porro nulla nobis quas minima pariatur.
+          <div class="tw-text-white tw-text-base tw-pt-2 tw-w-1/2">
+            Eduvacity product school have a vereity set of courses intruct by idustry expart to take 
+            you through your career with seamlesss accessibilty that helps you develope the skills and experience.
           </div>
           <div class="tw-text-white tw-text-base tw-pt-6 tw-font-bold">
             Certificate
@@ -52,13 +50,13 @@
           <div data-aos="fade-up" class="tw-text-2xl sm:tw-text-center lg:tw-text-left md:tw-text-3xl xl:tw-px-10 tw-px-4 tw-pt-10 tw-font-bold">
             Product Design
           </div>
-          <div data-aos="fade-up" class="xl:tw-px-10 sm:tw-text-center lg:tw-text-left tw-px-4 tw-pt-4">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi, accusamus 
-            nostrum officiis quae nihil ratione excepturi fuga ipsa? Distinctio.
+          <div class="tw-px-10 tw-pt-4">
+            The products design course helps you in gaining experience
+            in designing deferent product through user experience.
           </div>
           <div data-aos="fade-up" class="tw-bg-pinkColor tw-w-28 tw-ml-4 md:tw-ml-10 tw-mt-4">
             <div class="tw-text-xl tw-text-center tw-py-2 tw-font-bold">
-              OUTLINE
+              $250
             </div>
           </div>
           <div class="tw-flex tw-mx-4 md:tw-mx-10 tw-mt-4">
@@ -178,51 +176,19 @@
               <div class="md:tw-w-64">
                 <q-btn color="accent" label="Enroll Now" class="tw-h-12 tw-font-semibold tw-w-32" no-caps unelevated @click="onClick" />
               </div>
-              <div class="tw-flex tw-ml-16">
-                <div class="tw-text-center">
-                  <div class="tw-text-xl tw-font-bold">
-                    29
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    days
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    4
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    hrs
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    32
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    mins
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    40
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    sec
-                  </div>
+              
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
     </div> 
     <div class="tw-mt-44">
       <div class="tw-text-2xl tw-text-center tw-font-bold">
         We provide you the best <br>
         learning experience
       </div>
-      <div class="sm:tw-hidden tw-mx-auto tw-w-48 tw-h-48 tw-mt-16 tw-rounded-full tw-border-2 tw-border-pinkColor">
+      <div data-aos="fade-down" class="sm:tw-hidden tw-mx-auto tw-w-48 tw-h-48 tw-mt-16 tw-rounded-full tw-border-2 tw-border-pinkColor">
         <div class="tw-pt-10">
           <div class="-tw-ml-4">
             <svg class="tw-mx-auto" width="86" height="72" viewBox="0 0 86 72" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -238,7 +204,7 @@
         </div>
       </div>
       <div class="tw-flex tw-justify-center">
-        <div class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
+        <div data-aos="fade-down" class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
           <div class="tw-pt-10">
             <div class="-tw-ml-4">
               <svg class="tw-mx-auto" width="86" height="72" viewBox="0 0 86 72" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -254,7 +220,7 @@
           </div>
         </div>
         <div class="tw-flex tw-justify-evenly md:tw-mt-12">
-          <div class="tw-pr-4 tw-border-2 tw-w-60 tw-pb-24 xl:tw-w-full">
+          <div class="tw-pr-4 tw-w-52 tw-pb-24 xl:tw-w-full">
             <div data-aos="fade-up" class="tw-h-16">
               <div></div>
             </div>
@@ -304,7 +270,7 @@
             </div>
           </div>
         </div>
-        <div class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
+        <div data-aos="fade-down" class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
           <div class="tw-pt-12">
             <svg class="tw-mx-auto" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g clip-path="url(#clip0_2069_1423)">
@@ -322,7 +288,7 @@
           </div>
         </div>
       </div>
-      <div class="sm:tw-hidden tw-mx-auto tw-w-48 tw-h-48 tw-rounded-full tw-border-2 tw-border-pinkColor">
+      <div data-aos="fade-down" class="sm:tw-hidden tw-mx-auto tw-w-48 tw-h-48 tw-rounded-full tw-border-2 tw-border-pinkColor">
         <div class="tw-pt-12">
           <svg class="tw-mx-auto" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g clip-path="url(#clip0_2069_1423)">
@@ -393,7 +359,7 @@
               </div>
               <div class="tw-mt-12">
                 <div class="tw-px-4 tw-font-semibold">
-                  Ibrahim Musa Abbah
+                  Ibrahim Nasir Abbah
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
@@ -403,7 +369,7 @@
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
-                    Product desingner
+                    Product designer
                   </div>
                   <div>
                     <q-rating
@@ -493,7 +459,6 @@
           </q-card>
         </div>   
       </div>
-    </div>
     <FooterSection class="tw-mt-52" />
   </div>
 </template>
