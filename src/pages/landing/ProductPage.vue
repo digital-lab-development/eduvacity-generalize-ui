@@ -48,7 +48,7 @@
           </div>
           <div class="tw-px-10 tw-pt-4">
             The products design course helps you in gaining experience
-            in designing deferent products through user experience.
+            in designing deferent product through user experience.
           </div>
           <div class="tw-bg-pinkColor tw-w-28 tw-ml-10 tw-mt-4">
             <div class="tw-text-xl tw-text-center tw-py-2 tw-font-bold">
