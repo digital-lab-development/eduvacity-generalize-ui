@@ -10,10 +10,8 @@
             Product school
           </div>
           <div class="tw-text-white tw-text-base tw-pt-4 tw-w-1/2">
-            Lorem ipsum dolor sit amet consectetur adipisicing 
-            elit. Eveniet beatae exercitationem commodi illum, 
-            totam sapiente perspiciatis inventore voluptatum, quia 
-            fuga mollitia soluta expedita eos porro nulla nobis quas minima pariatur.
+            Eduvacity product school have a vereity set of courses intruct by idustry expart to take 
+            you through your career with seamlesss accessibilty that helps you develope the skills and experience.
           </div>
           <div class="tw-text-white tw-text-base tw-pt-6 tw-font-bold">
             Certificate
