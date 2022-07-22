@@ -14,6 +14,6 @@ export default defineComponent({
 
 <style scoped>
 .body {
-  font-family: Roboto;
+  font-family: poppins;
 }
 </style>
