@@ -9,7 +9,7 @@
           <div class="tw-text-5xl tw-text-white tw-pt-3 tw-font-bold">
             Product school
           </div>
-          <div class="tw-text-white tw-text-base tw-pt-4 tw-w-1/2">
+          <div class="tw-text-white tw-text-base tw-pt-2 tw-w-1/2">
             Eduvacity product school have a vereity set of courses intruct by idustry expart to take 
             you through your career with seamlesss accessibilty that helps you develope the skills and experience.
           </div>
@@ -47,8 +47,8 @@
             Product Design
           </div>
           <div class="tw-px-10 tw-pt-4">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi, accusamus 
-            nostrum officiis quae nihil ratione excepturi fuga ipsa? Distinctio.
+            The products design course helps in getting you in gaining experience
+            in designing deferent products through user experience.
           </div>
           <div class="tw-bg-pinkColor tw-w-28 tw-ml-10 tw-mt-4">
             <div class="tw-text-xl tw-text-center tw-py-2 tw-font-bold">
