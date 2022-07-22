@@ -9,7 +9,7 @@
           <div class="tw-text-3xl md:tw-text-5xl tw-text-white tw-pt-3 tw-font-bold">
             Product school
           </div>
-          <div class="tw-text-white sm:tw-text-base tw-pt-4 lg:tw-w-2/3">
+          <div class="tw-text-white sm:tw-text-base tw-pt-4 lg:tw-w-1/2">
             Lorem ipsum dolor sit amet consectetur adipisicing 
             elit. Eveniet beatae exercitationem commodi illum, 
             totam sapiente perspiciatis inventore voluptatum, quia 
@@ -222,7 +222,7 @@
         We provide you the best <br>
         learning experience
       </div>
-      <div data-aos="fade-down" class="sm:tw-hidden tw-mx-auto tw-w-48 tw-h-48 tw-mt-16 tw-rounded-full tw-border-2 tw-border-pinkColor">
+      <div class="sm:tw-hidden tw-mx-auto tw-w-48 tw-h-48 tw-mt-16 tw-rounded-full tw-border-2 tw-border-pinkColor">
         <div class="tw-pt-10">
           <div class="-tw-ml-4">
             <svg class="tw-mx-auto" width="86" height="72" viewBox="0 0 86 72" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -238,7 +238,7 @@
         </div>
       </div>
       <div class="tw-flex tw-justify-center">
-        <div data-aos="fade-down" class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
+        <div class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
           <div class="tw-pt-10">
             <div class="-tw-ml-4">
               <svg class="tw-mx-auto" width="86" height="72" viewBox="0 0 86 72" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -254,7 +254,7 @@
           </div>
         </div>
         <div class="tw-flex tw-justify-evenly md:tw-mt-12">
-          <div class="tw-pr-4 tw-w-52 tw-pb-24 xl:tw-w-full">
+          <div class="tw-pr-4 tw-border-2 tw-w-60 tw-pb-24 xl:tw-w-full">
             <div data-aos="fade-up" class="tw-h-16">
               <div></div>
             </div>
@@ -304,7 +304,7 @@
             </div>
           </div>
         </div>
-        <div data-aos="fade-down" class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
+        <div class="tw-hidden sm:tw-block tw-w-48 tw-h-48 tw-mt-36 tw-rounded-full tw-border-2 tw-border-pinkColor tw-mx-2 xl:tw-mx-10">
           <div class="tw-pt-12">
             <svg class="tw-mx-auto" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g clip-path="url(#clip0_2069_1423)">
@@ -322,7 +322,7 @@
           </div>
         </div>
       </div>
-      <div data-aos="fade-down" class="sm:tw-hidden tw-mx-auto tw-w-48 tw-h-48 tw-rounded-full tw-border-2 tw-border-pinkColor">
+      <div class="sm:tw-hidden tw-mx-auto tw-w-48 tw-h-48 tw-rounded-full tw-border-2 tw-border-pinkColor">
         <div class="tw-pt-12">
           <svg class="tw-mx-auto" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g clip-path="url(#clip0_2069_1423)">
