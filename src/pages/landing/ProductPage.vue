@@ -56,7 +56,7 @@
           </div>
           <div data-aos="fade-up" class="tw-bg-pinkColor tw-w-28 tw-ml-4 md:tw-ml-10 tw-mt-4">
             <div class="tw-text-xl tw-text-center tw-py-2 tw-font-bold">
-              $250
+              OUTLINE
             </div>
           </div>
           <div class="tw-flex tw-mx-4 md:tw-mx-10 tw-mt-4">
@@ -326,11 +326,9 @@
                   Hafsah Umar
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
-                  praesentium dicta voluptas in consequatur placeat natus architecto 
-                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
-                  consectetur adipisci!
-                </div>
+                 I just wanted to say that the product design course is great at eduvacity product school. 
+                 I took the course about a year ago, after it was recommended by one of my friends. 
+                 It's been really helpful in boosting my skills as a designer.
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
                     Product desingner
@@ -362,10 +360,10 @@
                   Ibrahim Nasir Abbah
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
-                  praesentium dicta voluptas in consequatur placeat natus architecto 
-                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
-                  consectetur adipisci!
+               I have had the opportunity enroll in eduvacity and am very impressed. 
+               It's the perfect balance between a rigid, structured process and a flexible approach. 
+               The program itself is user friendly and easy to navigate through, which makes it great 
+               for learners of all levels. I would say that this is one of the most impressive teaching programs out there!
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
@@ -400,10 +398,9 @@
                   Hafsah Umar
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
-                  praesentium dicta voluptas in consequatur placeat natus architecto 
-                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
-                  consectetur adipisci!
+               I've been learning at eduvacity for the past two months and they have been a fantastic.
+               I've had a few different instructors and they're all great, but one in particular that is worth mentioning is Adeola.
+               She's one of the best instructors I've had. She knows how to make difficult topics more understandable.
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
@@ -436,10 +433,9 @@
                   Ibrahim Musa Abbah
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
-                  praesentium dicta voluptas in consequatur placeat natus architecto 
-                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
-                  consectetur adipisci!
+                 I'm not sure if my career would cjange if not for eduvacity. 
+                 The instructorss are so knowledgeable that I was able to focus on other things in my life that needed my attention.
+                 the greatest things i do is the knowledge testing, the gamified learning is really a great piece to look at.
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
