@@ -9,11 +9,10 @@
           <div class="tw-text-3xl md:tw-text-5xl tw-text-white tw-pt-3 tw-font-bold">
             Programming school
           </div>
-          <div class="tw-text-white sm:tw-text-base tw-pt-4 lg:tw-w-2/3">
-            Lorem ipsum dolor sit amet consectetur adipisicing 
-            elit. Eveniet beatae exercitationem commodi illum, 
-            totam sapiente perspiciatis inventore voluptatum, quia 
-            fuga mollitia soluta expedita eos porro nulla nobis quas minima pariatur.
+          <div class="tw-text-white sm:tw-text-base tw-pt-4">
+            The programming school is set to provide learners starting from biginner guide to building digital products
+            this school is set to provide learners with solid level of software engineering. giving them the ability to
+            become software engineers with experience in collaborations and agility in providing innovative solutions. 
           </div>
           <div class="tw-text-white tw-text-base tw-pt-6 tw-font-bold">
             Certificate
@@ -178,38 +177,7 @@
               <div class="md:tw-w-64">
                 <q-btn color="accent" label="Enroll Now" class="tw-h-12 tw-font-semibold tw-w-32" no-caps unelevated @click="onClick" />
               </div>
-              <div class="tw-flex tw-ml-16">
-                <div class="tw-text-center">
-                  <div class="tw-text-xl tw-font-bold">
-                    29
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    days
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    4
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    hrs
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    32
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    mins
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    40
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    sec
-                  </div>
+              
                 </div>
               </div>
             </div>
@@ -353,38 +321,7 @@
               <div class="md:tw-w-64">
                 <q-btn color="accent" label="Enroll Now" class="tw-h-12 tw-font-semibold tw-w-32" no-caps unelevated @click="onClick" />
               </div>
-              <div class="tw-flex tw-ml-16">
-                <div class="tw-text-center">
-                  <div class="tw-text-xl tw-font-bold">
-                    29
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    days
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    4
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    hrs
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    32
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    mins
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    40
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    sec
-                  </div>
+             
                 </div>
               </div>
             </div>
@@ -528,38 +465,7 @@
               <div class="md:tw-w-64">
                 <q-btn color="accent" label="Enroll Now" class="tw-h-12 tw-font-semibold tw-w-32" no-caps unelevated @click="onClick" />
               </div>
-              <div class="tw-flex tw-ml-16">
-                <div class="tw-text-center">
-                  <div class="tw-text-xl tw-font-bold">
-                    29
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    days
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    4
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    hrs
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    32
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    mins
-                  </div>
-                </div>
-                <div class="tw-text-center tw-ml-4">
-                  <div class="tw-text-xl tw-font-bold">
-                    40
-                  </div>
-                  <div class="tw-text-base tw-font-semibold">
-                    sec
-                  </div>
+              
                 </div>
               </div>
             </div>
