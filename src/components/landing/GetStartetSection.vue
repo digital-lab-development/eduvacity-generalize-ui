@@ -36,7 +36,7 @@
         <div data-aos="fade-down">
           <div class="tw-bg-pinkBGColor hover:tw-border-2 hover:tw-border-pink-500 step tw-rounded-lg lg:tw-w-110 tw-w-85 tw-h-72 sm:tw-mx-1 lg:tw-mx-3 tw-mt-5 tw-mx-auto">
             <div class="tw-text-lg lg:tw-text-xl tw-p-5 tw-text-primaryColor tw-font-bold">
-              Blockchain school
+              Design school
             </div>
             <div class="tw-px-5 tw-text-xs lg:tw-text-sm">
               The design school is set to provides an opportunity for students to learn about design and 
