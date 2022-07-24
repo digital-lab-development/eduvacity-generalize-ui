@@ -616,10 +616,9 @@
                   Hafsah Umar
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
-                  praesentium dicta voluptas in consequatur placeat natus architecto 
-                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
-                  consectetur adipisci!
+                 The eduvacity school of programming is a great place to start your career in tech. 
+                 there modules and curriculum is easy to understand and offers a lot of flexibility.
+                 for over 3 month of my career journey i am so much smarter than i never taought i was before!
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
@@ -652,10 +651,9 @@
                   Ibrahim Musa Abbah
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
-                  praesentium dicta voluptas in consequatur placeat natus architecto 
-                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
-                  consectetur adipisci!
+                 The eduvacity schhol have an amazing courses and I am so glad that I enrolled in it. 
+                 It has been the most comprehensive and useful courses since when i started learning programming. 
+                 The instructors are dedicated, knowledgeable and always willing to help students understand the concepts of programming.
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
@@ -690,10 +688,11 @@
                   Hafsah Umar
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
-                  praesentium dicta voluptas in consequatur placeat natus architecto 
-                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
-                  consectetur adipisci!
+                 I am searching for where to learn promming and a friend introduce me to eduvacity. 
+                 the new teaching model they use is amaizing and it was just what I needed! It's 
+                 not one of those old school models where you have to churn out workbooks 
+                 and grade papers; it's more about giving students the opportunity to learn 
+                 at their own pace. Plus, their flexible approach.
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
@@ -726,10 +725,11 @@
                   Ibrahim Musa Abbah
                 </div>
                 <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate 
-                  praesentium dicta voluptas in consequatur placeat natus architecto 
-                  quas quae quia odio eligendi harum id asperiores neque velit cupiditate, 
-                  consectetur adipisci!
+                 eduvacity is a great platform. I started with a trial and was immediately hooked. 
+                 The teaching process is good and they use a personalize teaching methods. 
+                 They give you a lot of support, too, in both the form of documents 
+                 that are easy to follow as well as live instructors who are willing 
+                 to answer any questions you might have. Highly recommend!
                 </div>
                 <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                   <div class="tw-font-semibold">
