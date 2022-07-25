@@ -112,7 +112,7 @@
               <div data-aos="fade-up" class="tw-flex">
                 <div class="tw-bg-pinkColor tw-w-3 tw-h-3 tw-rounded-full tw-mt-1"></div>
                 <div class="tw-pl-2 tw-w-64">
-                  Introduction to Material and Selection
+                  Introduction to Materials and Selection
                 </div>
               </div>
               <div data-aos="fade-up" class="tw-flex tw-mt-4 sm:tw-mt-0 md:tw-ml-10">
