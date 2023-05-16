@@ -23,11 +23,7 @@ const routes = [
         name: 'partnership',
         component: () => import('pages/landing/PartnershipPage.vue') 
       },
-      { 
-        path: '/product-school', 
-        name: 'product-school',
-        component: () => import('pages/landing/ProductPage.vue') 
-      },
+      
       { 
         path: '/programming-school', 
         name: 'programming-school',
