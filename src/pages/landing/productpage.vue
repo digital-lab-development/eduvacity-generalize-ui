@@ -199,7 +199,7 @@
               </svg>
             </div>
             <div class="tw-text-center">
-              Point & Reward
+              Point and Reward
             </div>
           </div>
         </div>
@@ -215,7 +215,7 @@
                 </svg>
               </div>
               <div class="tw-text-center">
-                Point & Reward
+                Point and Reward
               </div>
             </div>
           </div>
@@ -309,7 +309,7 @@
       <div class="tw-mt-24">
         <div class="tw-text-2xl tw-text-center tw-font-bold">
           Review from student <br>
-          & success story
+          and success story
         </div>
         <div class="tw-flex tw-flex-wrap sm:tw-flex-nowrap tw-justify-center tw-mt-5">
           <div data-aos="flip-up">
