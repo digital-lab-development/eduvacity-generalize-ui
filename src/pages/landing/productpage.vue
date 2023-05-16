@@ -395,7 +395,7 @@
                 </div>
                 <div class="tw-mt-12">
                   <div class="tw-px-4 tw-font-semibold">
-                    Hafsah Umar
+                    Abubkar
                   </div>
                   <div class="tw-mt-2 tw-text-xs lg:tw-text-sm tw-mx-4 tw-h-44 lg:tw-h-36">
                  I've been learning at eduvacity for the past two months and they have been a fantastic.
